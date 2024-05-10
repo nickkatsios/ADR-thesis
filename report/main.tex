@@ -1,0 +1,49 @@
+\documentclass[12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm]{geometry}
+\usepackage{lipsum}
+\usepackage{fancyhdr}
+
+% Plain Title to be used later
+% \title{An Empirical Analysis of Architectural Design Records}
+% \author{Nikolaos Katsios}
+% \date{Athens University of Economics and Business \\ \today}
+
+\begin{document}
+
+\include{CoverPage}
+
+% \maketitle
+
+% TODO: Enrich near the end
+\begin{abstract}
+    This thesis aims to explore and analyze architectural design records (ADRs) to understand their importance in documenting and guiding architectural decisions in software development projects. Through empirical analysis, this work seeks to uncover patterns, practices, and the impact of ADRs on project success.
+\end{abstract}
+
+\newpage
+\tableofcontents
+\listoffigures
+\newpage
+
+\include{ch1-Introduction}
+
+\include{ch2-Arch-Knowledge}
+
+\include{ch3-Capture-Arch-Knowledge}
+
+\include{ch4-ADRs}
+
+\include{ch5-Research-Methodology-And-Questions}
+
+\include{ch6-Dataset}
+
+\include{ch7-Analysis}
+
+\include{ch8-Conclusions}
+
+\bibliographystyle{plain}
+\bibliography{references/ref-Intro}
+
+\end{document}
+
