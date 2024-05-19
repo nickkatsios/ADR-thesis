@@ -1,7 +1,15 @@
 \chapter{ADR Dataset Analysis}
     \section{Analysis Methods}
         Innovative analysis methods including machine learning.
-    \section{Comparative Analysis}
+    \section{Results and answers to questions}
         Comparative analysis of ADR use with project metrics.
-    \section{Temporal Analysis}
-        Temporal analysis of ADR updates and their correlations.
+        \subsection{Answer to Q1...}
+        - see if trends from previous study have continued --> Revisit prev repos and see if they continued the use of adrs ---> update graphs from prev research
+        - A machine learning approach? --> embeddings + clustering + use gpt to extract some stuff depending on questions + sentiment analysis? 
+        -  ADR in comparison to repo code complexity code size, stars, size of project, contributors, how active it is (last repo commit)
+        - How often do projects make architectural decisions --> interval between file creation --> see correlation with size of the project in terms of lines of code
+        - What topic (tags) repos that use adrs are related to (eg machine learning, developer tooling etc) 
+        - how many adrs exist in separate documentation repositories and how many are stored alongside code
+        - construct dependency graph from ADRs in the same project that have links to other past ADRs. --> see dependencies between decisions --> visualize on gephi and maybe see keywords and present a case study
+        - how many repos are follwoing naming conventions, structure conventions etc    
+        - how many adrs came from adr-tools github cli tool 
