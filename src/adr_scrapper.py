@@ -1,7 +1,6 @@
 import os
 import git
 import shutil
-import requests
 import json
 
 def clone_repository(repo_url, clone_dir):
@@ -10,6 +9,9 @@ def clone_repository(repo_url, clone_dir):
     git.Repo.clone_from(repo_url, clone_dir)
 
 def download_files_from_directory(local_repo_path, target_directory):
+    # target directory is the directory inside the repository that contains the ADRs
+    # since we cloned the repo, if we join the local repo path with the target directory
+    # we will get the full path to the directory that contains the ADRs
     full_directory_path = os.path.join(local_repo_path, target_directory)
     if not os.path.exists(full_directory_path):
         print(f"Directory {full_directory_path} does not exist.")
@@ -22,10 +24,11 @@ def download_files_from_directory(local_repo_path, target_directory):
             print(f"Downloading {file_name} from {file_path}...")
             with open(file_path, 'rb') as file:
                 content = file.read()
-                dest_file_path = os.path.join("../data/ADRs-Updated", file_name)
+                # all adrs will be stored in a dump in the data folder
+                dest_folder = "../data/ADRs-Updated"
+                dest_file_path = os.path.join(dest_folder, file_name)
                 with open(dest_file_path, 'wb') as dest_file:
                     dest_file.write(content)
-            print(f"Downloaded {file_name} to {dest_file_path}.")
 
 def process_metadata_file(metadata_file_path):
     with open(metadata_file_path, 'r') as f:
@@ -38,11 +41,14 @@ def process_metadata_file(metadata_file_path):
     shutil.rmtree(clone_dir)
 
 def process_all_metadata_files(metadata_directory):
+    file_count = len(os.listdir(metadata_directory))
+    i = 0
     for file_name in os.listdir(metadata_directory):
         if file_name.endswith('.json'):
             metadata_file_path = os.path.join(metadata_directory, file_name)
-            print(f"Processing {metadata_file_path}...")
+            print(f"Processing {metadata_file_path} --> {i+1} of {file_count})...")
             process_metadata_file(metadata_file_path)
+        i += 1
 
 if __name__ == "__main__":
     print("Starting ADR Scrapper...")
