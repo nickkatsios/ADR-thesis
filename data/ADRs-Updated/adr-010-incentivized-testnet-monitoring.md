@@ -101,7 +101,7 @@ Node operators have the option of adding an additional exporter to their OTEL Co
     ```yaml
     exporters:
       prometheusremotewrite:
-        endpoint: https://361398:eyJrIjoiYTNlZTFiOTc2NjA2ODJlOGY1ZGRlNGJkNWMwODRkMDY2M2U2MTE3NiIsIm4iOiJtZXRyaWNzLWtleSIsImlkIjo2MTU4ODJ9@prometheus-prod-01-eu-west-0.grafana.net/api/prom/push
+        endpoint: https://361398:@prometheus-prod-01-eu-west-0.grafana.net/api/prom/push
     ```
 
 6. Configure OTEL Collector to enable the `otlp` receiver and the `prometheusremotewrite` exporter. In `/etc/otelcol/config.yaml`:
