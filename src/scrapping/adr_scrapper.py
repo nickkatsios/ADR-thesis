@@ -31,7 +31,7 @@ def download_files_from_directory(local_repo_path, target_directory):
             with open(file_path, 'rb') as file:
                 content = file.read()
                 # all adrs will be stored in a dump in the data folder
-                dest_folder = "../data/ADRs-Updated"
+                dest_folder = "../../data/ADRs-Updated"
                 dest_file_path = os.path.join(dest_folder, file_name)
                 with open(dest_file_path, 'wb') as dest_file:
                     dest_file.write(content)
@@ -64,5 +64,5 @@ def process_all_metadata_files(metadata_directory):
 
 if __name__ == "__main__":
     print("Starting ADR Scraper...")
-    metadata_directory = "../data/ADR-Study-Dataset-Metadata/repositories"
+    metadata_directory = "../../data/ADR-Study-Dataset-Metadata/repositories"
     process_all_metadata_files(metadata_directory)

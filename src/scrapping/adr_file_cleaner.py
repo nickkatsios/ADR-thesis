@@ -48,7 +48,7 @@ def delete_specific_files(directory, file_names):
 
 
 if __name__ == "__main__":
-    adr_directory = "../data/ADRs-Updated"
+    adr_directory = "../../data/ADRs-Updated"
     clean_non_md_files(adr_directory)
     print("--------------------------------------------------------------------------------")
     unwanted_words = ["template", "draft", "example" , "readme" , "outro" , "contributing", "index"]    
