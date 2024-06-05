@@ -1,0 +1,1 @@
+ouch solid caching construct solid cache updating property rendered item work look like caching item reference reference equality determined tried index issue instead updating field news item replace entirely new one different reference consequence becomes easier difficult risk introduced change mitigated

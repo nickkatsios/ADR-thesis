@@ -1,0 +1,1 @@
+dependabot keep dependency want ensure dependency stay dependabot offer service bot open github new version dependency released dependabot monitor dependency update consequence dependabot mean dont manually monitor dependency new version

@@ -1,0 +1,1 @@
+react main frontend framework supercedes angular main frontend framework issue motivating influence constrains change proposing agreed implement consequence becomes easier difficult risk introduced change mitigated

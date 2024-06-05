@@ -1,0 +1,1 @@
+parent navorder emphasize line heading problem statement madr contains line chosen chosen emphasized driver madr easy read madr easy write considered emphasize line heading emphasize line heading outcome chosen emphasize line heading heading always put beginning line followed colon thus already easy identified line heading reader familiar markdown might confused star text

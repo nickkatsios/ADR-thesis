@@ -1,0 +1,1 @@
+classic adrs architecture supersedes markdown architectural record modern version adrformats currently supported structurizr revert classic adrformat consequence adrs updated considered keep madrformat dont structurizrs feature displaying keep madrformat contribute parser format structurizr revert classic adrformat

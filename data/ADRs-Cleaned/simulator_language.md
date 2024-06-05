@@ -1,0 +1,1 @@
+simulator language simulator multiple calculation short time choice dictated speed code execution golang consequence multithreading dynamic typed compiled

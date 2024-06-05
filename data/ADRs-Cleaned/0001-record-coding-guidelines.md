@@ -1,0 +1,1 @@
+record coding guideline record coding standard made odh platform architecture record described michael consequence see michael article linked lightweight adr toolset see nat pryces adrtools

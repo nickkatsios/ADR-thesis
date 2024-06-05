@@ -1,0 +1,1 @@
+javascript typescript decide language implement frontend javascript consequence bcause tutorial improves learning speed typescript adoption mainstream enough well even typescript developer know javascript

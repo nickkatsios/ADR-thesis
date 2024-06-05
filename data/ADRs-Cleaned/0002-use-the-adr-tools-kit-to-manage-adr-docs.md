@@ -1,0 +1,1 @@
+adrtools kit manage adr doc help automated process managing architectual record tool stanadardizes process found reference tool thought work techninques review page github repo httpsgithubcomnpryceadrtools installed brew brew install adrtools system adrtools manage adr document consequence training documentation required shared understanding field

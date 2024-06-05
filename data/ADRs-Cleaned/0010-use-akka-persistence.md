@@ -1,0 +1,1 @@
+akka persistence storing state actor flight actor staffassignments actor decrease lag startup akka persistence dont yet database live system akka persistence serialization consequence needed message serialization approach see serializeakkapersistencewithprotobufmd

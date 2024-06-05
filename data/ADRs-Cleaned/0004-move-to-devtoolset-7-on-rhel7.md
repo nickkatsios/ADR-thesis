@@ -1,0 +1,1 @@
+move devtoolset red hat red hat default compiler gcc compliant prevents access modern feature part maintenance cycle release move red hat compiler gcc part devtoolset tool provided red hat consequence combined move visual studio allow set minimum standard across project

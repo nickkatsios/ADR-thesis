@@ -1,0 +1,1 @@
+react libs apollo stack require react consistent maintain one react version accross application react consequence monitor version upgrade accross library lockstep upgrade accross application

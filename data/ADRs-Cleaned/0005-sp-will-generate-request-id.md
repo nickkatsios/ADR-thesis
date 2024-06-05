@@ -1,0 +1,1 @@
+generate request authnrequests contain attribute value sent back response inresponseto attribute something decide value something validate inresponseto expected service provider generate random guid authnrequest consequence user wont able customise

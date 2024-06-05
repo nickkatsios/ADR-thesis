@@ -1,0 +1,1 @@
+adr ingres currently two ingres system istio see adr nginxingress see old ingres adr istios virtual service record essentially advanced ingres record istio ingres gateway consequence manage ingres one standard kubernetes type people expect work

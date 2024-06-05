@@ -1,0 +1,1 @@
+implement styled component complicated different rule styledcomponents design consequence easier style component

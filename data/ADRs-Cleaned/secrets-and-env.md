@@ -1,0 +1,1 @@
+secret environment variable record issue access database info username port host etc decided create environment variable hosting platform access info without leaking code decided pro code simple con everytime host change environment variable reset believe something cannot avoid secret make sure confidential information wont accessible reading code

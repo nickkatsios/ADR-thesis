@@ -1,0 +1,1 @@
+cloud function entrypoint feel define uniform way setting entrypoints cloud function within google cloud platform entrypoint name function directory entrypoint name clear descriptive entrypoint mainpy entrypoint contain business logic

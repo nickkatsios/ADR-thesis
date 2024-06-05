@@ -1,0 +1,1 @@
+python many operator golang none working project proficient golang another rust could useful learning exercise python fiaas experience operator python kafkarator consequence python get running quickly leaning experience fiaas team member python requires work get speed

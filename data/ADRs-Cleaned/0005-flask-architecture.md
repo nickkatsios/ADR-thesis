@@ -1,0 +1,1 @@
+flask architecture flask allows whatever want appfolderstemplatesetc quickly become messy plus deal configuration within extension harder declare flask app load configuration architecture based httpsgithubcomstephaneflaskskeleton consequence breaking change mostly configuration

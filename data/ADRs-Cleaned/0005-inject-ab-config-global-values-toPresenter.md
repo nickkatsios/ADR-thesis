@@ -1,0 +1,1 @@
+inject config global value presenter testablity deciders team faced problem missing test case presenter injectable variable like test config global value presenter want cover missings decided inject variable related presenter constructor consequence injecting variable presenter constructor giving testable presenter test production code case involving business logic

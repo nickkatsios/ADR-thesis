@@ -1,0 +1,1 @@
+decided yarn package manager instead npm issue nodegyp package installation node mac able resolve yarn running yarn global add nodegyp yarn global remove nodegyp described see extra discussion issue choice yarn npm yarn yet problem yarn heroku

@@ -1,0 +1,1 @@
+uselogragegem roda papertrail logging papertrail account log data transfer limit extending limit mean moving another tier papertrails platform would prefer avoid reduce default logging level production info instead debug lograge gem turn rail default multiline log single line without losing information consequence papertrail usage reduced loss critical information

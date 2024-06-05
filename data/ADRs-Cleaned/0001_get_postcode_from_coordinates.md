@@ -1,0 +1,1 @@
+postcodesio get postcode coordinate approved get postcode coordinate get browser postcodesio instead geocoder gem make simple ajax call browser consequence avoid creating endpoint server therefore reducing load manage side rely service trusted google map open source based open data

@@ -1,0 +1,1 @@
+coding stylereview guide following project convention followed project standard javascript httpswwwwschoolscomjsjsconventionsasp bootstrap styling html httpswwwwschoolscomhtmlhtmlsyntaxasp

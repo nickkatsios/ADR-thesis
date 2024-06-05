@@ -1,0 +1,1 @@
+architecture test mechanism supporting validating common architecture principle application architecture test archunit implemented

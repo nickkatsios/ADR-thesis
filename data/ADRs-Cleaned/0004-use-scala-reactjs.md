@@ -1,0 +1,1 @@
+scala reactjs httpsgithubcomjapgollyscalajsreact reactjs scalajs wrapping consequence preversion scalajsreact library grew organically rough edge time chose active development new branch designed api released react scalajs give easier reason built functionally

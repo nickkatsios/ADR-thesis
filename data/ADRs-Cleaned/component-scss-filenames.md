@@ -1,0 +1,1 @@
+component filename file contain style given component name component file extension currently file dash case name like bpkbuttonscss agree rename change file reason example bpkcheckboxjs style bpkcheckboxscss bpkhorizontalnavitemjs style bpkhorizontalnavitemscss

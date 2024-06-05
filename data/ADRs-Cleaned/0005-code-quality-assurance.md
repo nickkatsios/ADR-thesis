@@ -1,0 +1,1 @@
+code quality assurance writing code adheres style guide best practice annoying want standardize bestinclass tool isort black flake consequence tool isort creates well formatted import black pedantic tool reformats code particular style remove burden individual programmer relinquish control flake later check style guideline

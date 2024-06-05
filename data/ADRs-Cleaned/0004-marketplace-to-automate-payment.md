@@ -1,0 +1,1 @@
+marketplace automate payment marketplace demo website work testnet automate payment defined wallet demoswallet payment wallet lot tfts solution live max hour consequence reduces amount click user get demo deployed money flow package wont usable marketplace probably rethought anyhow

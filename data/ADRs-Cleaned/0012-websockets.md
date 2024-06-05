@@ -1,0 +1,1 @@
+websockets way provide live update frontend ingest sheet validation ingest etc websocket api via phoenix channel enable realtime communication client server consequence order websockets work correctly phoenix application cannot behind http load balancer instead tcptls load balancer

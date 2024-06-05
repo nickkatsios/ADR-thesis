@@ -1,0 +1,1 @@
+downloadfilemanager linshare flutter application download file one one space received share shared space library flutterdownloader adding queue taskid enqueuestring url string savedir string header also clear cancel file queue dedicated function decided linshare could currently download file one one consequence since allow download one file time consequence

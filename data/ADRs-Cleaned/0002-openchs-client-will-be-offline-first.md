@@ -1,0 +1,1 @@
+openchsclient offlinefirst openchs client place low connectivity mean application usable point time without internet however data pushed central server reporting well backup mean functionality sync server require connectivity server openchs client usable offline consequence client cannot group people place connectivity login take place connectivity

@@ -1,0 +1,1 @@
+sidebarposition basic architecture overview overview execution architecture trubudget deployed either locally cloud docker interface exposed via web interface via blockchain connection

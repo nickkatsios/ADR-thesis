@@ -1,0 +1,1 @@
+support node version least security update making clear version supported updated time pass support node version active security support support newer unstable version endoflifedate reference example moment node supported consequence everytime drop support major node version make major release

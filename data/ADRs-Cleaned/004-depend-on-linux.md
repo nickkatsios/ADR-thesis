@@ -1,0 +1,1 @@
+depend linux recommended depend running unix environment support command depend linux therefore reduce overhead maintaining linux window support consequence shared library cannot completely window environment window slave testing etc may fully supported

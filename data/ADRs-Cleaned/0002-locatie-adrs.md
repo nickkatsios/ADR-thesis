@@ -1,0 +1,1 @@
+locatie adrs geoloket ngkaart worden tandem ontwikkeld adrs voor ngkaart worden genoteerd het geoloket project moeten duidelijk maken adr eerder geoloket ngkaart beide van toepassing consequence dupliceren geen adr informatie tussen geoloket ngkaart adrs geoloket broncode kunnen meer van toepassing zijn ngkaart dan geoloket

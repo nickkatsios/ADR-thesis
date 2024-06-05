@@ -1,0 +1,1 @@
+create item view state adapter problem statement creation list item viewstate viewmodelusecase cause lot model wrappingoperation data flow viewmodelusecase layer item view state creation facing concern tight coupling decided create item view state adapter neglected creating item view state viewmodelsusecases achieve consistency seperation concern

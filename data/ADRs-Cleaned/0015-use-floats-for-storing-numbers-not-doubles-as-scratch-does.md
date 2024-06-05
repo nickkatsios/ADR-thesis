@@ -1,0 +1,1 @@
+float storing number double scratch scratch javascripts number type store number javascript number type effectively bit double ftduino support bit float bit double emulation might possible slow likely exhaust available memory program space bit float store number consequence bit float lead loss range precision

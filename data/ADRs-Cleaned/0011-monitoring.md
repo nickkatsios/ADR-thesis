@@ -1,0 +1,1 @@
+monitoring tta smart hub requires continuous monitoring solution ensure uptime error resolution tta smart hub utilize new relic monitoring integrates easily front end backend code track performance metric error fedramp approved handle alerting via integration flexible alerting platform grow consequence log analysis performance monitoring becomes far easier new relic place

@@ -1,0 +1,1 @@
+dsl creation representation goal tree work lot goal tree example siebenapp testing current api allows create goaltree stepbystep make hard point border test setup test action create declarative dsl allows define goal tree exists test action unit test consequence test became readable clean

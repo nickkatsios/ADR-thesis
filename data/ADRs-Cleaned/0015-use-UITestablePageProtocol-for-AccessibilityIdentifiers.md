@@ -1,0 +1,1 @@
+uitestablepage interface setting accessibility identifier deciders team team created new uitestablepage interface setting accessibility identifier consistency replace uitestablepage every view controller conform uitestablepage consequence accessibility identifier format uitestablepage setting accessibility identifier easy simple

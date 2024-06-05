@@ -1,0 +1,1 @@
+linter lead eslint linting code reviewed job interview setting instruction specify production level code stylistically consistent code nicer read fitting production level code objective linter consequence code follow consistent style

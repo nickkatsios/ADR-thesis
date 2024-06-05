@@ -1,0 +1,1 @@
+jekyll serve documentation project documentation must published internet jekyll server serve document like github page consequence easy migrate github page ever needed

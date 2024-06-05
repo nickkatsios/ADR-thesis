@@ -1,0 +1,1 @@
+deal authentication user able register login retrieve lost password testing flasklogin limited went flasksecurity relies complete glue across flask extension consequence strong dependency respect convention limitation especially orm side plus configure email sending server

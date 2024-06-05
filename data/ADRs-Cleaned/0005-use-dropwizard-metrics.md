@@ -1,0 +1,1 @@
+dropwizard metric supercedes micrometer prometheus want provide metric monitored service dropwizard creating metric consequence micrometer allow remove unregister metric dropwizard unregister metric longer useful decide longer needed monitor given service

@@ -1,0 +1,1 @@
+jwt api authorization api portion application require authentication json web token jwt open standard described rfc additional information jwt authentication consequence jwt allows best practice pattern authentication support library make implementation much secure efficient

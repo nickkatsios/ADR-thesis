@@ -1,0 +1,1 @@
+add readme component documentation component well documented user library able quickly start component create readmemd file inside component folder adjacent code component readme file structure highlight case code example api reference consequence developer component quickly without going much documentation without experiment much

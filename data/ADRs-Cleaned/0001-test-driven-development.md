@@ -1,0 +1,1 @@
+test driven development test driven development development process problem statement ensure maintainability keeping overhead burden minimal considered test regular testing code written test driven development positive negative consequence see wikipedia article indepth discussion

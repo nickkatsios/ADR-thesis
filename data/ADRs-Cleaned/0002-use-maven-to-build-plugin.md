@@ -1,0 +1,1 @@
+maven build plugin maven plugin needed build tool compile test package maven gradle viable decided maven felt better fit maven build maven plugin rather gradle consequence verbose dependency management build manifest committers project maven plugin familiar build framework gradle learning curve

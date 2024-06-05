@@ -1,0 +1,1 @@
+compile api transfter class proposed httpsgithubcommicrosofttypescriptwikiusingthecompilerapi httpsgithubcomdsherrettsmorphreadme typescript compiler api wrapper provides easier way navigate manipulate typescript javascript code consequence consequence

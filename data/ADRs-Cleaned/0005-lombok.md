@@ -1,0 +1,1 @@
+lombok library utilize avoid boilerplate code utilize lombok whenever possible consequence boilerplate code focus core domain

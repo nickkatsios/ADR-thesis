@@ -1,0 +1,1 @@
+python subject matter expert sme corneliu popescu base programming language first choice implement various functionality language may needed proper justification choose python base programming language consequence expect available large number available library example dependency reference

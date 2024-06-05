@@ -1,0 +1,1 @@
+result command handler idea cqrs return anything command processing case get generated identifier new created resource command handler return generated identifier processing needed

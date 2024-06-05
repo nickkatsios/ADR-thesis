@@ -1,0 +1,1 @@
+browser compatibility problem statement browser actively support mico web interface considered chrome firefox edge internet explorer outcome actively support chrome version may test web interface occasionally firefox version fix issue rendering web interface unusable firefox

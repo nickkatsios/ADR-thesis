@@ -1,0 +1,1 @@
+junit test framework choose test framework junit standard framework jvm dont advanced requirement yet

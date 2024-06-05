@@ -1,0 +1,1 @@
+asset pipeline unable address security vulnerability jquery couldnt update bootstrap due fact present gem npm package removed asset pipeline completely moved image asset webpacker allowed update jquery via yarn consequence gem include stylesheets image include yarn dependency repo installed nodemodules currently typeahead twitter

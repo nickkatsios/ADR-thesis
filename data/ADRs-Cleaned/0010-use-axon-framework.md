@@ -1,0 +1,1 @@
+axon framework currently lot custom class defined ddd building block better ddd library goal axon framework ddd library

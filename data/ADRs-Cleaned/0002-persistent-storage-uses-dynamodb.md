@@ -1,0 +1,1 @@
+persistent storage dynamodb application require persistent storage storing lpa ownership granted access possibly user credential current moj strategy managed service possible dynamodb persistent storage consequence reduced cost faster build destroy time easier run local version development compared aws rds aurora postgresql

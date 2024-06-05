@@ -1,0 +1,1 @@
+placetestsnexttosourcefiles proposed migrating typescript fixing test mean switching source file test file test file another folder journey longer sidebyside source test finding related file would much easier moving test file next source code make much easier switch source test also easier see test file unit test consequence refactoring

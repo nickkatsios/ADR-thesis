@@ -1,0 +1,1 @@
+sys pick documentation language polish development team business related communication polish team member prefer write code english much business facing documentation bfd bfd artifact english session system diagram etc developer facing documentation artifact english code adr diagram etc consequence maintain low friction communication domain expert feedback possible

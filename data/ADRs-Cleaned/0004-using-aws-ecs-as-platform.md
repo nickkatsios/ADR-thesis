@@ -1,0 +1,1 @@
+aws platform want docker aws dont want provision docker infrastructure going aws managed service create cluster done consequence problem lot problem environment variable

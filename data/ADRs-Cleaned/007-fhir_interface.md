@@ -1,0 +1,1 @@
+fhir interface proposed deciders daniel stefaniuk todo issue seeing motivating change todo change actually proposing consequence todo becomes easier difficult change

@@ -1,0 +1,1 @@
+snapshot testing want confident change react component display intentional jest built support snapshot testing snapshot testing part testing component consequence snapshot testing mean intentional change way component display require explicitly updating snapshot done flag running test suite mean change always intentional

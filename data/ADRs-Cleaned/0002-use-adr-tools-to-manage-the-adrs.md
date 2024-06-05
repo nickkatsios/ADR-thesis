@@ -1,0 +1,1 @@
+adrtools manage adrs tool make creating adrs help reduce friction around creating documentation adrtools simple cli tool past previous project great effect httpsgithubcomnpryceadrtools install adrtools locally help quickly generate consistent adrs consequence adrs pretty easy create manually tool isnt really necessary tool trivial create arent really risk

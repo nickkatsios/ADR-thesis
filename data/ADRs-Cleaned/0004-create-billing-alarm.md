@@ -1,0 +1,1 @@
+create billing alarm fixed amount budget project since supposed micro scale project cost resource pretty quickly create alarm billing predicted billing month consequence better management budget cost monitoring

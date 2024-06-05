@@ -1,0 +1,1 @@
+make etl reentrant etl interrupted start hour etl stopped hour restarting take another hour finish etl reentrant storing state regular basis restarting etl pick last point consequence running etl locally process stopped started without losing progress additional complexity added code maintain state clear state etl start afresh

@@ -1,0 +1,1 @@
+jest want test framework good support react typescript jest standard recommended test framework react apps jest testing framework

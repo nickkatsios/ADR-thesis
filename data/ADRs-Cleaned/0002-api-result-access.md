@@ -1,0 +1,1 @@
+api result access done want able ols api result object ontology term instead standard coreapi document object coreapi api result document kind ordereddict fact making access property annoying programmer know expected key implement consequence ease data comprehension retrieval ease api integration

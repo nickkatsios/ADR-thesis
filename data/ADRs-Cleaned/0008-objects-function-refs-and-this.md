@@ -1,0 +1,1 @@
+object function ref make log like class consolelog constructoropts thisopts allowtrace false opts infomessage consolelogmessage tracemessage consolelogths thisoptsallowtrace consolelogmessage pas reference trace another function trace fails undefined change proposing agreed implement consequence becomes easier difficult risk introduced change mitigated

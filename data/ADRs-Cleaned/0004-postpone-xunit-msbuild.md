@@ -1,0 +1,1 @@
+postpone xunit msbuild xunit msbuild target work xbuild also would like able select file glob pattern xunit target requires know name front environment may differ example may unpacking artifact archive try implementing one allows globbing internal xunit version consequence

@@ -1,0 +1,1 @@
+class one agent decorator agent decorator dont limit apply class one simplify code logic one agent decorator class consequence one agent created decorate one agent decorator

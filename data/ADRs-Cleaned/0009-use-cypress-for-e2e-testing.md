@@ -1,0 +1,1 @@
+cypress testing test frontend interface user perspective cypress frontend testing tool consequence easy integration pipeline limitation parallism popular stack selenium watch scale cypress currently integrate jest

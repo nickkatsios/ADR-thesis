@@ -1,0 +1,1 @@
+rest api design problem statement restful apis designed differently discussion name resource correctly kind http method trigger action outcome follow guideline proposed learn rest restful tutorial

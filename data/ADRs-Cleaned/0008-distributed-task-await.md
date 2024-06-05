@@ -1,0 +1,1 @@
+distributed task await lazy consensus switching task manager distributed implementation able await task running node cluster broadcast event rabbitmq consequence rabbitmqtaskmanager broadcast termination event completedfailedcanceled rabbitmqtaskmanagerawait first check task state terminated listen rabbitmq await timeout limit

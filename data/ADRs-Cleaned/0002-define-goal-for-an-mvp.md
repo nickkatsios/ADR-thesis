@@ -1,0 +1,1 @@
+define goal mvp superseded adr technical story create vision mvp look like problem statement mvp plugin look like outcome mvp data kanji user click view next previous input text field user story button clicked add note existing deck tool menu button must open window display kanji data

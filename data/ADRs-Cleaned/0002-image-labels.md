@@ -1,0 +1,1 @@
+image label store metadata image image powerful mechanism deployment portable across environment image specify version dependency image run sidecar image label form orgelifesciencesdependenciesapidummy store version dependency consequence developer node able retrieve corresponding version dependency inspection image

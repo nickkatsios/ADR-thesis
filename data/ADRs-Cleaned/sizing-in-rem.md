@@ -1,0 +1,1 @@
+sizing value specified rem spacing sizing value defined rem thinking absolute measure size doesnt always respond well change zoom level font preference based fontsize parent element always consistent throughout document rem provides consistent flexible experience traveller information information please see blog post engage interactive rem snook explanation

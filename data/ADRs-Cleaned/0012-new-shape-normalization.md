@@ -1,0 +1,1 @@
+new shape normalization issue motivating influence constrains confusing case analysing union optimization copying property shape find recursion consequence becomes easier difficult risk introduced change mitigated

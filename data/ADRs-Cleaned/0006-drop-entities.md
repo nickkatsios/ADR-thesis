@@ -1,0 +1,1 @@
+drop entity service entity service created manage crud pipeline resourceproviders artifactstores practice minimal code intention smarter crud done via temporal facility amount code infra needed full service wasnt justified drop service move functionality apiserver consequence reduces cluster complexity moving part significantly improving maintenance usage

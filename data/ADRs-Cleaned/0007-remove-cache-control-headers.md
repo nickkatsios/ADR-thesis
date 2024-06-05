@@ -1,0 +1,1 @@
+remove cache control header search result cached minute giving stale opening time information caching removed site consequence search result main search page file longer cached

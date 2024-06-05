@@ -1,0 +1,1 @@
+choosing capnproto something better protobuf checked capnproto documentation example rpc seems perfect match started integrating sdk communication clientserver replacing previous protobuf consequence

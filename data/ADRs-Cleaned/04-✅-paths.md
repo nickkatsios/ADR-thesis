@@ -1,0 +1,1 @@
+issue path edition lambda able identify specific version issue two deployment backend one previewing second published issue published issue deployment replace issueid path parameter sourceissueid source identify file published bucket retreived form issue alternative issue could identified get parameter could run deployment consequence published issue lambda directly callable app

@@ -1,0 +1,1 @@
+writing project code ive realized constant probably heavyweight rendering leave javafxtornadofx constant renderinganimation framework rationalization although probably better frameworksengines unity opengl configuring learning would probably take time dont javafx seems nice opportunity relatively little learn

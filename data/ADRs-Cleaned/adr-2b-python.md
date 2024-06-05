@@ -1,0 +1,1 @@
+software stack python integration ingests ingest content integration case python well suited powerful highly flexible userfriendly gluing language python may also quick prototyping staff admin interface python ingests integration system consequence python best practice ensure project code style usage consistent local python style guide best practice

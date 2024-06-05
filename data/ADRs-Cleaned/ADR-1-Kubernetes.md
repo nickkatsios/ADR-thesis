@@ -1,0 +1,1 @@
+adr kubernetes api endpoint managed unit allow operational scaling containerised application built able run kubernetes help package individual aws resource serverless application kubernetes framework also considered following alternative solution manual creation resource multiple terminal session docker compose consequence learn kubernetes pattern usage style

@@ -1,0 +1,1 @@
+single machine multiple machine add bunch complexity dont want deal experimenting actually work advantage microservices pretty minimal person team put server logic machine consequence

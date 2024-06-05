@@ -1,0 +1,1 @@
+decided implement automatic data scraping backend customly built system deployed heroku rather specialized platform scraping apify think backend system eventually outgrow mere data scraping see message preceding message thread

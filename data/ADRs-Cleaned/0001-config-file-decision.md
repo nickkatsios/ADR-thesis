@@ -1,0 +1,1 @@
+config file proposed architecture guard setup rule file place directory example config language typescript suffix dart filenamingstyle camel dash underline filetree src type modelts dts component component shared tree rule directory filename fileclass consequence consequence

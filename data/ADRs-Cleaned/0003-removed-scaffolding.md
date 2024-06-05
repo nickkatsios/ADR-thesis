@@ -1,0 +1,1 @@
+removed scaffolding provide scaffolding test taker expect able set decided remove scaffolding rather suggest test taker default vpc deploy application consequence people spend exta time deploy network infrastructure might make test seem lot bigger

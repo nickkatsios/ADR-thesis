@@ -1,0 +1,1 @@
+react hook new way writing react code since still considered new overwhelming new developer dont think worth starting yet

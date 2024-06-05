@@ -1,0 +1,1 @@
+junit testing deciders qtal enpro team problem statement since project started junit junit want one unittesting framework order make testing writing consistent considered junit junit outcome chosen junit newer version therefore higher maturity wider featureset positive consequence uniform test newer feature

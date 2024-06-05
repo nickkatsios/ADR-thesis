@@ -1,0 +1,1 @@
+method representing event onprefix onboarding new engineer software project fast also future self back track project fast consistent logical naming benefit eventmethods within viewmodel class prefix event method called view onclickfavorite onsearchchanged consequence existing viewmodel class edited

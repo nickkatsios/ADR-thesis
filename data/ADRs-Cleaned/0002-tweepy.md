@@ -1,0 +1,1 @@
+tweepy proposed subject matter expert sme corneliu popescu programmatically access twitter python library able support apis chosen library well reviewed wide community support choose tweepy twitter api pyhon library consequence expect available large number example case dependency reference

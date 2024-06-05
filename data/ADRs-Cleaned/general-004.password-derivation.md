@@ -1,0 +1,1 @@
+simple derivation function reason something sufficiently good rapidly

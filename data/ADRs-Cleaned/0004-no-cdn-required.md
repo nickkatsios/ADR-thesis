@@ -1,0 +1,1 @@
+cdn required expected high demand natural ramp usage service available application registered certain complex add cdn content delivery network cdn delivery static asset consequence data transferred server

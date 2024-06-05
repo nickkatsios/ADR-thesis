@@ -1,0 +1,1 @@
+rubocop linting ruby code lint ruby code team previous experience working rubocop rubocop linting ruby code consequence team set code style write code

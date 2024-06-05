@@ -1,0 +1,1 @@
+regular php session storing last seen data yyyymmdd proposed rejected deprecated superseded regularsessionlastseen describe problem statement chosen consequence write known important consequence came along positive negative people involved name name name name

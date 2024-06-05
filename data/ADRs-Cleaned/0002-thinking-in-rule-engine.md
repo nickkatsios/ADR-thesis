@@ -1,0 +1,1 @@
+thinking rule engine proposed rule engine part data process thinking add mini version rule engine simple example see httpsgithubcomnikunjyrulesblobmasterjsonqueryg business rule management systemhttpswwwdroolsorg equal equal greater equal greater equal contains start end list present logical expression consequence consequence

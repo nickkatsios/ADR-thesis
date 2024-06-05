@@ -1,0 +1,1 @@
+repository structure frontendbackend problem statement different repository frontend backend single repository considered mono repo different repository outcome chose mono repo starting point reduces unnecessary complexity working frontend backend logic furthermore single build order verify whole project source code

@@ -1,0 +1,1 @@
+inheritdoc usage inheritdoc done inconsistently across codebase whether systematically remove systematically done number point phpdoc provides inheritance docblocks default appropriate static analyser phpstan psalm without time writing also limited value inheritdoc tag variant inheritdoc tag variant must removed submitting pull request

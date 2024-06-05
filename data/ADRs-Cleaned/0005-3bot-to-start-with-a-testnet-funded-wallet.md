@@ -1,0 +1,1 @@
+bot start testnet funded wallet reduce overhead user interaction grid hassle money flow every bot start testnet wallet funded faucet tft consequence requires upgrade entrypoint minor update frontend reflect simplifies money flow testnet reduces overhead

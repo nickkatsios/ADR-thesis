@@ -1,0 +1,1 @@
+choose orm orm especially flasksecurity available moment flasksqlalchemy bloated flaskmongoengine relies mongo harder migration flaskpeewee initial choice maintained anymore ponyorm look great code hard contribute flaskmongoengine migration manually might want findcode tool future consequence inform hosting company mongodb update existing pullrequests

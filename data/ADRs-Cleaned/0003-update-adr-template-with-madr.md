@@ -1,0 +1,1 @@
+update adr template markdown architectural record problem statement neglected update adr period made record topic also talked want start continue recording architecture update adr template called markdown architectural recordsmadr inspired approach also updated section according case positive consequence new template new motivation source record new structure lean comprehensible

@@ -1,0 +1,1 @@
+list architecural record markdown architectural record easily integrated java project component support limited number java data type type representation markdown document agnostic markdown type representation semantic metadata markdown document semantic triple fluid interface

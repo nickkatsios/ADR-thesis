@@ -1,0 +1,1 @@
+support bit architecture going forward rust implementation recognize bit architecture exist people may want run holochain supporting bit architecture may particular consequence realm cryptography limited resource assume availability bit cpu resource testing bit target consequence may limit certain lowpowerlowcost environment would ideally like see holochain available

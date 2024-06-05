@@ -1,0 +1,1 @@
+nextjs want able support fullfeatured react apps without reinventing wheel come routing serverside rendering nextjs framework support feature box nextjs basis project consequence nextjs handle tooling build run serverside rendered react app

@@ -1,0 +1,1 @@
+create combat completed create basic structure combat involving character know fight middle man referee ensures everyone get turn work ensure character interact properly create basic mean game function combat module specific character overarching combat entity handle mediation

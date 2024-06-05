@@ -1,0 +1,1 @@
+create theming system multiple application going component one slightly different theme color library flexible enough support theme well create theming system based exactly angular material theme user able override theme specific component instance really needed consequence component easily adjusted fit theme project

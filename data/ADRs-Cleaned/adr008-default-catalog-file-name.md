@@ -1,0 +1,1 @@
+adrsadr title adr default catalog file name description architecture record adr log default catalog file name background spec catalog file format well described adr guidance provided name catalog file following discussion issue made name catalog file named shell cataloginfoyaml name default requirement catalog file work backstage regardless name

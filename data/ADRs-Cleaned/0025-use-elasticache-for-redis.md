@@ -1,0 +1,1 @@
+elasticache redis traditionally provisioned redis machine nonclustered state aws provide elasticache redis engine configured clustered consider provisioning elasticache replace provisioned redis instance elasticache instead provisioning redis instance consequence puppet code manage risk lockin client side behaviour changed restricted command elasticache may impact management

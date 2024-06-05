@@ -1,0 +1,1 @@
+update bot deployer image ubuntu ubuntu become deprecated poetry version old cause poetry failure bot deployer removing poetry update sticking peotry install lockfile update base image phusion ubuntu instead ubuntu bot deployer consequence poetry install work lockfile bot deployment

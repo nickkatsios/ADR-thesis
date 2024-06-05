@@ -1,0 +1,1 @@
+feature flag toggle feature feature exist codebase yet ready release production would like feature flag toggle availability certain feature help prevent development production branch drifting weve decided implement simple feature flag toggled environment variable consequence deployment want toggle feature complex tightly couple merging deployment

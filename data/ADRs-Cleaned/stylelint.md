@@ -1,0 +1,1 @@
+stylelint april discovering potential bug another project decided make sense start tryin april linting running didnt pick single error dont start stylelint

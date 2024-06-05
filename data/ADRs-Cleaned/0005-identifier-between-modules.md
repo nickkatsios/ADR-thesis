@@ -1,0 +1,1 @@
+identifier module communication bounded global identifier entity needed also identifier needed possible future integration external system natural key uuids primary key forbidden communication module external system entity good natural key preferable choice identifier module useful link httpstomharrisonjrcomuuidorguidasprimarykeysbecarefulbaadcb

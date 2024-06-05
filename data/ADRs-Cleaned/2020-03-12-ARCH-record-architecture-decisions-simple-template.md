@@ -1,0 +1,1 @@
+title arch record architecture simple template parent index haschildren false layout post sidenav doc permalink adrsarchrecordarchitecturedecisionssimpletemplate proposed rejected deprecated superceded amended unknown pending issue motivating influence constrains change proposing agreed implement consequence becomes easier difficult risk introduced change mitigated

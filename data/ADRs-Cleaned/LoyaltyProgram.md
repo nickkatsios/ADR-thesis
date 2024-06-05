@@ -1,0 +1,1 @@
+title loyalty program component superseded loyalty program component doesnt look like requirement loyalty program component decided one consequence none

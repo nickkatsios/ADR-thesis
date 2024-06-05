@@ -1,0 +1,1 @@
+adr track content item language adr agreed focusing english page noticed last month restriction causing issue benefit content item contentid different locale needed handle edge case retrieving information publishing api order work around retrieving english language content impact quality metric content wont accurate page track content metric content item regardless locale

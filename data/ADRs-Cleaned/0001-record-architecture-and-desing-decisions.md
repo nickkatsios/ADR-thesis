@@ -1,0 +1,1 @@
+record architecture desing record architectural desing made project architecture record described michael article httpthinkrelevancecomblogdocumentingarchitecturedecisions also httpsmediumcombetterprogramminghereisasimpleyetpowerfultooltorecordyourarchitecturaldecisionsfbada consequence able see motivation history architecture desing hopefully provide thing way

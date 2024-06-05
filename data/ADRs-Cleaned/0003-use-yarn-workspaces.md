@@ -1,0 +1,1 @@
+yarn workspace superseeded adr organize code also want run integration test code example code party library want monorepo style setup settle yarn workspace lerna seems complicated moment consequence might add another tool becomes unmanageable

@@ -1,0 +1,1 @@
+choice azure region must guarantee data stored transferred cloud service never leave border european union decide deploy service west europe region located netherlands consequence azure service must configured west europe region

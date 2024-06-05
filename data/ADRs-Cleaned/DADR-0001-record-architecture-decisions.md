@@ -1,0 +1,1 @@
+record architecture want record architectural made ditto project keep track motivation behind certain architecture record described michael article also proposed template consequence michael article link motivation behind previous visible everyone present future nobody left scratching head understand thinking time change old clear change project

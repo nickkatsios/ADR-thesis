@@ -1,0 +1,1 @@
+naming branch name deciders team run many separate sprint naming get mixed also difficult manage many branch gathered one folder branch name named way channel namesprint nametask code name example mpdpsprintmpdpproductdetailpage discosprintiosdiscofixwidgetheight consequence branch divided different folder channel name

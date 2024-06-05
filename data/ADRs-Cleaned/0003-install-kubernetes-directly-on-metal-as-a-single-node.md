@@ -1,0 +1,1 @@
+install kubernetes directly metal single node wasnt getting anything built libvirt shenanigan thing worried running kubernetes install kubernetes straight onto debian install swan metallb similar later manage routing consequence itll dangerous running thing outside cluster machine might able mitigate kubevirt

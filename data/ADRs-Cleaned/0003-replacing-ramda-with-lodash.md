@@ -1,0 +1,1 @@
+replacing ramda lodash arrow function much natural way reduce visual noise javascript consequence consequence

@@ -1,0 +1,1 @@
+single writer topic implement pubsub implement event sourcing topic distribute event application system subscribing event dependent event every topic limited single writer process consequence whenever application publish event already another application new topic created event combined one stream functionprocess added combine two

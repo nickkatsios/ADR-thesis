@@ -1,0 +1,1 @@
+vimplug favour vundle vundle hasnt updated aug time writing read bit vimplug pretty good felt like time change vimplug manage vim plugins favour vundle consequence negative consequence change small amount time take install plugins vimplug one change might worth remembering vimplug store plugins vimplugged rather vimbundle

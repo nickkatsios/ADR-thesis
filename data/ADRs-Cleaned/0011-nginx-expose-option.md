@@ -1,0 +1,1 @@
+nginx expose minio solution listens http safely expose backup restic example http valid certifcate add solution expose chatflow expose solution nginx reverse proxy terminate ssl connection consequence easier user expose apps http support

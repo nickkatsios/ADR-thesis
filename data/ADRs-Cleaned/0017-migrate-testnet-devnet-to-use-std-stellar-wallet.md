@@ -1,0 +1,1 @@
+migrate testnet devnet std stellar wallet stellar testnet network overloaded recently cause lot delay error stellar mainnet network std tft price vary according explorer type example devnet would cost mainnet testnet would cost mainnet price consequence deprecate testnet wallet apps staging app payment stellar std stable network

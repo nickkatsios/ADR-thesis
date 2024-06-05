@@ -1,0 +1,1 @@
+store etl output cloud output etl available container exposed consuming application etl completed output stored azure blob azure current preferred cloud platform output file exposed publicly available url consequence pomi data available application publicly available url

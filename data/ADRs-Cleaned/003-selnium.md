@@ -1,0 +1,1 @@
+selenium scrape koshvani data problem statement required framework scrape store data koshvani platform machine readable format driver structure koshvani platform platfrom link reflect selection criterion automation job requirement data scraping periodical job access new data outcome selenium create robust browserbased automation

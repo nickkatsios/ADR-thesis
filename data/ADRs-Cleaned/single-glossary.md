@@ -1,0 +1,1 @@
+glossary scope february summary single glossary would term system detail initially started effort glossary defined per system including top level system glossary time aligned wanting language across system component avoid different term meaning different thing different

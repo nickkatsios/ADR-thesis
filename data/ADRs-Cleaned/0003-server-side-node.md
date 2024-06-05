@@ -1,0 +1,1 @@
+server side node standard part ongoing development noticed thanks norris tranpilation expected later version ecma script target suggestion node target tsconfigjson minor node version updated match minor version alpine docker image node currently discussion done consequence better transpilation debugging experience take advantage recent functionality enhancement optimisation

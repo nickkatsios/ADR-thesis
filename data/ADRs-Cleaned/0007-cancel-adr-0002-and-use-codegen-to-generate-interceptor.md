@@ -1,0 +1,1 @@
+cancel adr codegen generate interceptor proxy fast native code codegen generate transparent layer top user class provide interceptor function codegen consequence maintainer require higher programming skill codegen instead proxy

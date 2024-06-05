@@ -1,0 +1,1 @@
+containerization important ensure team member environment configuration application operate docker consequence configuration team member avoiding problem tool version

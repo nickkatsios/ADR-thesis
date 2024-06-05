@@ -1,0 +1,1 @@
+postgresql want ability run many environment including heroku postgresql well supported desired environment postgresql data persistence layer consequence deploy heroku without forced paid mysql addons wont able leverage managed service based sql solution like mysql

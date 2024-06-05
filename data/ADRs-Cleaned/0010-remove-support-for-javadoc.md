@@ -1,0 +1,1 @@
+remove support javadoc superseded remove support java deciders thomas nilefalk problem statement source contains lot cruft java likely abandoned outcome remove support browsing symbol javadoc along pertaining configuring functionality consequence risk lot code removed good risk might want keep supporting java unlikely since better support modern version java available

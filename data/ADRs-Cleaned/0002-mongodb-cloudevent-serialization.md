@@ -1,0 +1,1 @@
+mongodb cloudevent serialization pending currently occurrent unnecessary work converting cloudevent document vice versa see issue cloud event java sdk project none yet consequence keep mean slower serializationdeserialization one idea would create custom serializer check contenttype provided user creating cloudevent json convert data document documentparse optimal though

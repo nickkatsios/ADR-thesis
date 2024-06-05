@@ -1,0 +1,1 @@
+socketsio backend interface app eventdriven make sense socket instead rest api event transfer

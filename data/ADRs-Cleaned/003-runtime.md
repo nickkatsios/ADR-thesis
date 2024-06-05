@@ -1,0 +1,1 @@
+home runtime want build serverless application function return hello world message pick programming language python consequence pro favourite easy learn easy read well suited aws lambda due short startup time strong community con slow compared language previous next

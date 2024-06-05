@@ -1,0 +1,1 @@
+title development language june reactnative support javascript typescript javascript chosen time widely development language whilst babel enables typescript enables transpilation typescript type checking consequence step change expo babel transpile code possible mix plane javascript typescript

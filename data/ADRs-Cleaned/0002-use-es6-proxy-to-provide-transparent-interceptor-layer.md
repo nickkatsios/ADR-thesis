@@ -1,0 +1,1 @@
+proxy provide transparent interceptor layer implement interceptor modify existing class operation reversible may cause compatibility issue framework add proxy transparent layer modifying user classobject consequence legacy browser safari nodejs support proxy slower propertydescriptor

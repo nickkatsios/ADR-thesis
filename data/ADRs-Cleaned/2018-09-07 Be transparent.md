@@ -1,0 +1,1 @@
+transparent nav paid public purpose providing public service produce open available public strive transparent possible work principle open default consequence public repos public communication channel requires discipline share knowledge build service must conscious security aspect start

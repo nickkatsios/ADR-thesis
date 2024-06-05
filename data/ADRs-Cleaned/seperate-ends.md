@@ -1,0 +1,1 @@
+seperate end record issue choose two completely separate end backend render frontend request sent set path decided host two different end separately decided note mean directory two folder completely separated communicate http request put different place

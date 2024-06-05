@@ -1,0 +1,1 @@
+naming file component pascal case file export component kebab case others example indexjs stylesjs buttonutilsjs bpkbuttonjs bpksomecomponentjs

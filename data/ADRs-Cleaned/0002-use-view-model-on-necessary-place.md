@@ -1,0 +1,1 @@
+necessary manipulate dto model viewmodel class created declined deciders team problem manipulate response dto object object getting larger also field change response object update uis field nothing change user interface thats seperate dto uis model necessary manipulate dto model viewmodel class created consequence much clean code

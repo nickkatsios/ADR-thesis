@@ -1,0 +1,1 @@
+prefer dugite raw git command test build failed version git circleci expected gitprocessexec even test lean git process consequence ensures always get version git executable wherever run test

@@ -1,0 +1,1 @@
+extracting grant wise expenditure problem statement extracting grantwise expenditure lot site crash encountered taken earlier extract ddowise expenditure section koshvani section contain information different heirarchies driver challenge around site crash addressed grantwise expenditure section extracted outcome grantwise expenditure section extracted ddowise expenditure section

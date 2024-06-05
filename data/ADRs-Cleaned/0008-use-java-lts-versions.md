@@ -1,0 +1,1 @@
+java lts version apr supersedes adr adrs created wide variety operating system tool written java operating system independence java platform order profit new feature java langauge tool compiled last lts version java consequence java scripting language code complex code base constantly maintained keep new lts version

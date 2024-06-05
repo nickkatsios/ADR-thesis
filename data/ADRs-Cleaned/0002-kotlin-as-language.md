@@ -1,0 +1,1 @@
+kotlin programming language choose main language app kotlin main language jetbrains summer practice ended simplify maintenance contribution jetbrains employee consequence favorite open source devops community may complicate contribution people outside jetbrains

@@ -1,0 +1,1 @@
+circleci ete test want automated ete test build keep thing consistent also want free free good circleci provides free tier solid docker support circleci automated ete test consequence

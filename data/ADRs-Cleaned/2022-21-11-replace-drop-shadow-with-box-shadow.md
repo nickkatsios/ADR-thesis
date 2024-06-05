@@ -1,0 +1,1 @@
+title replace dropshadow boxshadow area storefront tag safari performance storefront safari drastic performance issue dropshadow changing boxshadow solves performance issue consequence design optic dropshadow slightly different perfect look almost much faster

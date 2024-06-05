@@ -1,0 +1,1 @@
+setup new server consequence ref linux swap httpshelpaliyuncomknowledgedetailhtml add swap ubuntu httpswwwdigitaloceancomcommunitytutorialshowtoaddswaponubuntu

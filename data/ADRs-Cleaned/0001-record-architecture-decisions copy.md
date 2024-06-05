@@ -1,0 +1,1 @@
+record architecture record architectural made project made done project begin developer least one project specification document larger byte total source code size document large open read update bitesized piece easier stakeholder consume architecture record captured thoughtworks technology radar consequence lightweight adr toolset see nat pryces adrtools

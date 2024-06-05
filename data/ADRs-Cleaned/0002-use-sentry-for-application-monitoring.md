@@ -1,0 +1,1 @@
+sentry application monitoring hackney preference tool across digital service httpsgithubcomlbhackneyitapiplaybookcentralisedexceptionlogging sentry third party service collecting managing exception environment consequence easier hand service back hackney tooling start rather dxws preference

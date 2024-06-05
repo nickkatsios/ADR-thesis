@@ -1,0 +1,1 @@
+directory layout revision amends phoenix organization code organization agreed upon phoenix organization become bit unweildy practice specifically nested schema module name confusion around function placement within hierarchy put schema inside schema directory top level place schema inside flatten file top level alongside schema consequence might amend move right direction

@@ -1,0 +1,1 @@
+license information available within app open source software honored apart obligation show open source library think great people named honor contribution new view showing relevant open source library including link projectpage simplicity simple webview showing pre created html page consequence new fragment containing webview implemented

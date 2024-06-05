@@ -1,0 +1,1 @@
+componentbundling bundling component usage consuming application require consuming application dependency repository exported component packaged assuming dependency well package component inline style external dependency needed consequence exported component appear consistent across consuming application risk could component somewhat rigid well see implementation

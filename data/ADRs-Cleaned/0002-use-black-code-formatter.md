@@ -1,0 +1,1 @@
+black code formatter would like code formatter standardize code look stop bothering code review focus code actually work black httpsgithubcomambvblack consequence black opinionated double quote people dont like benefit prevails

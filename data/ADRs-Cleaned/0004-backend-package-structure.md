@@ -1,0 +1,1 @@
+backend package structure decide structure backend code bounded stick structure proposed homberg outstanding book adapter application port service domain consequence sync code architecture lead screaming architecture

@@ -1,0 +1,1 @@
+knapsack run test parallel test suite take upwards minute complete test executed synchronously significant time saving achieved parallelising process pipeline add kanpsack gem development test dependency update pipeline accordingly consequence test suite complete faster test split smaller chunk across number node

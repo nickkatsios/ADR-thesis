@@ -1,0 +1,1 @@
+rename utilsdemo package migration utilsdemo package deploy whole origin system receiving feedback noticed name utilsdemo didnt reflect true intention package weve decided rename utilsdemo package migration publish npm consequence name package closely reflects purpose

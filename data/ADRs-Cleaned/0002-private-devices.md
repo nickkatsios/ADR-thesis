@@ -1,0 +1,1 @@
+deciders prala problem device might contain data dont want public example often turn light bathroom solution add boolean field isprivate device hide data see private device data data visible owner admins world map device name location visible everyone world map data

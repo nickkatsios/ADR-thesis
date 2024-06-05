@@ -1,0 +1,1 @@
+config config file superceded environment variable override config file application configuration overridden command line flag environment variable something want take advantage configuration limited configuration file sake simplicity single way configure application consequence command line parameter environment variable ignored taken account starting application

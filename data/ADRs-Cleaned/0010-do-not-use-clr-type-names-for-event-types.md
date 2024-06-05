@@ -1,0 +1,1 @@
+clr type name event type looking sqlstreamstore code noticed warning clr type name event type event store reason behind message type outlive net clr type moving event along namespaces break stuff dictionarymap message type clr type want deserialize message consequence serializingdeserializing event longer break refactoring event

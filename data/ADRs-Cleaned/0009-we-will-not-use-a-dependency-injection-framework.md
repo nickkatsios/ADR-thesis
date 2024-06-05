@@ -1,0 +1,1 @@
+dependency injection framework writing really small project dont think framework like guice provide enough benefit outweigh cost constructor injection wont framework well factory object instead well avoid calling new inside constructor practical consequence well wire factory manually

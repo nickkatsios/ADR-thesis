@@ -1,0 +1,1 @@
+log message staging deployment strategy change right many different service loaded confusion regarding simpler way handling deployment change deployment want service exposed moreover automatize overall process consequence new file called dockercomposefareyml inserted

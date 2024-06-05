@@ -1,0 +1,1 @@
+title fault tolerance smartfridges polling mechanism getting smartfridges inventory would last known inventory even polling mechanism regularly obtain smartfridges stateinventory consequence without might smartfridges info fridge offline

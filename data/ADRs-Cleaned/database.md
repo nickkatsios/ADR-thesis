@@ -1,0 +1,1 @@
+database choice database depend information database store postgresql consequence support geometric type point line path etc similiar syntax mysql eloquent support

@@ -1,0 +1,1 @@
+aasm manage state supportcase supportcase number state set transistions state managed aasm simple dsl set inbuilt method make managing state transistions easy consequence block top model detailing state transition event trigger transition another model require state machine easy apply one aasm documentation

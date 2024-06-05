@@ -1,0 +1,1 @@
+pdflatex default problem statement latex compiler pdflatex xelatex lualatex outcome chosen pdflatex compiles faster correct ligature required final typesetting step positive consequence faster compile time negative consequence lualatex publication might lead different layout additional effort lualatexs power might

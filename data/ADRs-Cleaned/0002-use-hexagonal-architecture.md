@@ -1,0 +1,1 @@
+hexagonal architecture sdars application consists independent component communicated various way enable different communication way apply proper architectural style adopt hexagonal architecture project consequence easy communicate application component changing communication adapter

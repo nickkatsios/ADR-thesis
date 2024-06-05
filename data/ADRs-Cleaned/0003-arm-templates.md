@@ -1,0 +1,1 @@
+arm template application hosted azure validated pull request mastermain branch arm template created quickly create test environment execute unit test consequence consumption azure subscription occur process remove everything subscription required

@@ -1,0 +1,1 @@
+component rejected superceded adr problem statement main component library considered class implemented facade pattern provides api redirects component single class whose public method form api outcome chosen implement single class foreseen complexity library justify extra complexity developing facade pattern implementation

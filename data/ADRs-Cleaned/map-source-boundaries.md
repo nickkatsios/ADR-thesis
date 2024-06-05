@@ -1,0 +1,1 @@
+parcel boundary map source may improve usability map required include parcel boundary default layer data currently provides mapping layer includes parcel boundary openmapsgovbcca add data openmaps parcel boundary layer default map consequence adding additional layer map increase amount data requested displayed make user experience slower improve view property information boundary

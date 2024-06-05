@@ -1,0 +1,1 @@
+add cache control header superseded cache control header prevent client browser rerequesting page changed may leveraged proxy return cached page multiple client cachecontrol header added valid request error cached consequence client locally cached version page possible reducing server load

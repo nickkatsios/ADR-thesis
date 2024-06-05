@@ -1,0 +1,1 @@
+home secret way store secret application going aws ssm store secret secure string consequence pro store secret safely store variable needed cost effective con feature rich aws secret manager previous next

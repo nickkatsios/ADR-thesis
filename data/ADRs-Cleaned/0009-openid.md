@@ -1,0 +1,1 @@
+openid authentication mechanism user must secure frontend application independent openid connect open lobby server provide hard stuff frontend application ideally graphql api consequence create user account simply first successful login dont verify user email deal situation like lost password

@@ -1,0 +1,1 @@
+kotlin august proposed code base verbose could writing code avoid large learning curve away java ass benefit kotlin rewriting application consequence see kotlinization repository also see article based experience rewriting application kotlin made mahan hashemizadeh

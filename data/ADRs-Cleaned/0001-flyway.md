@@ -1,0 +1,1 @@
+flyway way running database migration verify event store database chosen flyway since team experince seems like simple lightweight consequence flyway turn difficult thought rework different tool content migration script remain

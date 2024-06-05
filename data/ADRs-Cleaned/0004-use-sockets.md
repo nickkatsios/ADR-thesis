@@ -1,0 +1,1 @@
+socket supercedes libpcap libnet stack automatically handle udp datagrams service listening port protocol sending icmp type message sender would interfere ipsec exhange unless process listening udp port esp program socket network access consequence libpcap libnet arent needed

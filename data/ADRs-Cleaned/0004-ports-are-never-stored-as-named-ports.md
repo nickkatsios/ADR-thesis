@@ -1,0 +1,1 @@
+port never stored named port string actually make sense store port string backends cluster dont name referenced port number nevertheless kuberenetes api make possible store port string endpoint generated external service operator change proposing agreed implement consequence port endpoint must always integer also externalservicespec

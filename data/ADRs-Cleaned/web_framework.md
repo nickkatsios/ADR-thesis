@@ -1,0 +1,1 @@
+select web framework criterion mature featureful easy implement rest support relational database candidate flask django commentary prefer allinone tightly integrated approach django approved django django rest framework author ntoll

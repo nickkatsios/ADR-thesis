@@ -1,0 +1,1 @@
+sqlite database one final stack canditate persistence cockroachdb window version remove complexity beginnign sqlite cockorachdb sql compatible expect difficults migrate consequence

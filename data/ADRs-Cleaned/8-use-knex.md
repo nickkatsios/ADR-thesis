@@ -1,0 +1,1 @@
+decided knexjs lightweight query builder access postgres database writing raw query client node cumbersome first tried sequelize orm encountered many problem see message addition sequelize nontrivial concept knexjs people new codebase would learn good want enable people contribute something backend even little oneoff time investment

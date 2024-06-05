@@ -1,0 +1,1 @@
+console formatter reducing complexity consoleui object make reusable testable consoleui know output thing content message responsibility formatter object replaced formatters future consequence formatter becomes testable well consoleui responsibility better split control node builtin module formatter talk console object consoleui process

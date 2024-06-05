@@ -1,0 +1,1 @@
+synchronization frontend backend done posting geting event detail rather rest api rest api might come later replication manager replicates event server event dont replication replicationfailed marked requiresreplication false reason simple implement given scale application monouser character good enough

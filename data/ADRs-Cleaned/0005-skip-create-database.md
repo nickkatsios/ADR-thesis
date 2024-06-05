@@ -1,0 +1,1 @@
+skip create database database upgrade script contains everything required deploy seed test database paas service like azure requirement mean difficult generic way create database make easier weve decided add skip database creation allow external process create database still creating table seeding data consequence none

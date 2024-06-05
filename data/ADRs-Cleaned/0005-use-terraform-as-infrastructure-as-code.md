@@ -1,0 +1,1 @@
+terraform infrastructure code infrastructure code track resource running aws account terraform consequence better reproducibility infrastructure easily destroyable rebuildable environment

@@ -1,0 +1,1 @@
+keyword instead callback helper foreach arraymap good friendly debug code consequence write code

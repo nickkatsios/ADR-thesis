@@ -1,0 +1,1 @@
+test definition scope problem statement acceptance test embedded game server application written one layer driver acceptance test meaningful end user outcome redefine current acceptance test treat like component test according definition good promotes different test different audience good set clear terminology good end user dont care layer

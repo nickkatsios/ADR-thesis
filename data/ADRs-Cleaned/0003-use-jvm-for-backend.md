@@ -1,0 +1,1 @@
+jvm backend since backend monolithic choose language least platform develop jvm platform specifically kotlin production code groovy test consequence initial development pace might slower since fluent kotlin groovy java example language fully interoperable java mean ton communitydriven java project reused needed without compatibility issue

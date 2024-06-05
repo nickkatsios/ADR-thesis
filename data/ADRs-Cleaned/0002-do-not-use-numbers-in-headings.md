@@ -1,0 +1,1 @@
+parent navorder number heading problem statement render first line adr adrs take unique identifier considered title add adr number front title number heading outcome chosen title common markdown file one add numbering manually markdown file try get number injected rendering framework enables renaming adrs publication easily allows copynpaste adrs repository without worry number

@@ -1,0 +1,1 @@
+choose static generator website updated time per year work without backend system decide plain html wordpress ghost similar solution simplify process publishing new article git current editor vscode cost hosting better reliability hosting consequence limited run blog post similar content isnt big deal

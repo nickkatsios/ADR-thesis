@@ -1,0 +1,1 @@
+title segmentation engine superseded purpose segmentation engine grouping customer goal targeted group history purchasing behaviour eating habit location managing coupon promotion difference recommendation segmentation engine decided consequence potentially additional component similiar thing recommendation manager

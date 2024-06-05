@@ -1,0 +1,1 @@
+knowledge crunching make describe core case application domain storytelling describe core case interaction user story found docuserstories directory consequence optionally domain story modeler lightweight tool

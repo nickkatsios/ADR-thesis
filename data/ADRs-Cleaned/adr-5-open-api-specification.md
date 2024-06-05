@@ -1,0 +1,1 @@
+openapi specification documenting api accordance architecture principle api first design api specification required specify share information api end point openapi supported api design tool already specify apis openapi swagger consequence additional case related api management api platform provides effective support openapi

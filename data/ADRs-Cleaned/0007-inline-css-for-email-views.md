@@ -1,0 +1,1 @@
+inline email view inline email view becuase form lack full support email platform including gmail outlook see httpswwwcampaignmonitorcomcss see current support form style link tag see httpscontentmyemmacomblogcssinhtmlemailswhatyouneedtoknowtogetstarted

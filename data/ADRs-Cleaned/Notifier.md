@@ -1,0 +1,1 @@
+title introduce notifier component way notifiy customer survey purchase provide recommendation letting know order via email andor notifier component needed send email andsms customer consequence without notifier system cant communicate customer easily

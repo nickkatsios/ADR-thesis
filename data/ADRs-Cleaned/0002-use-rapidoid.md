@@ -1,0 +1,1 @@
+rapidoid added retroactively superceded switch spring boot project developed technology demonstrator day job spring boot almost rest service exploring several micro framework project chose look rapidoid rapidoid experiment consequence different framework normally many learning given small nature experiment may fully exercise framework

@@ -1,0 +1,1 @@
+remove discourse datalab stack originally provisioned discourse instance alongside datalab user forum however practise found discussion take place either person slack documentation page required discourse removed stack consequence link discourse removed code deploys onto kubernetes ansible playbook terraform also altered accordingly

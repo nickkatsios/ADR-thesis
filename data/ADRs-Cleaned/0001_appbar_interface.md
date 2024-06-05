@@ -1,0 +1,1 @@
+interface application bar consistent way access application bar update caption change hamburger menu homeasup create interface implemented activity due single activity architecture base fragment cast fragment attached interface set member variable also method exposed fragment extended fragment make method consequence new interface necessary change base fragment made

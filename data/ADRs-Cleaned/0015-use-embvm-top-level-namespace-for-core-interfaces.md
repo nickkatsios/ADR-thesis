@@ -1,0 +1,1 @@
+embvm top level namespace core interface proposed framework code placed global namespace find home group code embvm embedded virtual machine namespace framework construct consequence framework core updated grouped embvm toplevel namespace includes everything srccore directory likely secondlevel namespaces developer burdened remembering detail

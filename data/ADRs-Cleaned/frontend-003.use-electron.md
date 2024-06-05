@@ -1,0 +1,1 @@
+encapsulate front end standalone electron app reason employee data highly confidential stored company system

@@ -1,0 +1,1 @@
+switch catch unit testing proposed started unit testing doctest however trying compile exception disabled seems problem catch provides support compiling fnoexceptions even let configure termination handler proposing catch unit testing actually try first consequence test cannot written header catch minor well keep test separate file anyway

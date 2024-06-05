@@ -1,0 +1,1 @@
+react hook weve avoided react hook time order ensure undesired complexity avoided code base hook standard fare react application make sense review usage dcr prefer nonstateful component possible prefer reacts official hook custom hook avoid abstraction could lead hook within hook within hook prefer hook class component lifecycle method try build hook generic reusable

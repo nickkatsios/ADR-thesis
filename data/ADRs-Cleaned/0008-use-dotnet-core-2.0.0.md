@@ -1,0 +1,1 @@
+dotnet core consequence starting migration better support inmemory implementation allows create faster simpler test projection

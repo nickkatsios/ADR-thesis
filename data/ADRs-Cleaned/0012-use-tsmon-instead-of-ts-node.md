@@ -1,0 +1,1 @@
+tsmon instead tsnode project pathalias tsconfigjson must bootstrapping tsnode support pathalias tsmon consequence effort maintenance extra tool

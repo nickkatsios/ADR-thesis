@@ -1,0 +1,1 @@
+sentry error tracking dont think easy justify client yet mainstream enterprise development super passionate going invest time learning

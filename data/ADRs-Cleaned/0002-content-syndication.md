@@ -1,0 +1,1 @@
+content syndication proposed phe would like syndicate talk frank content internally across digital third party platform news drug content warning could especially useful content provider syndication api adhere api technical data standard considered leverage existing contentful api create api gateway contentful api integrate digital syndication platform consequence

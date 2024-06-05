@@ -1,0 +1,1 @@
+dont linter see adr describes formatting kata would normally lead linter big fan huge set rule currently configuring linter couple rule overhead something like prettier automatically applies rule set fine linter kinda like someone say cleanup needed autofixer like prettier clean instead talking cent consequence linter behave add autoformatting tool

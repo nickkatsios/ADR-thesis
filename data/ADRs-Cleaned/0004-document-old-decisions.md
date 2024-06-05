@@ -1,0 +1,1 @@
+document old implemented forever alpha version ive started adr declined nevertheless lot important made since without proper explanation surely unclear fellow reader write significant architecture made project consequence aspect project development process become clear others unknown part spare time spent documenting instead coding

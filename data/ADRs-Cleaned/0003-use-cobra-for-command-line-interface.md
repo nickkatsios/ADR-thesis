@@ -1,0 +1,1 @@
+cobra command line interface edward provides rich commandline interface intended command structure familiar developer cobra cli framework consequence cobra provides opinionated structure commandline application allowing functionality separated user interface make adding new command unit testing functional code easier future

@@ -1,0 +1,1 @@
+static code analysis related apply clean code guideline never think everything sticking standard good thing prevent thing bad also help making code readable structured static code analysis find violation standard consequence java good idea sonar javascript sonar well eslint jshint jslint language check list tool static code analysis build failing violation

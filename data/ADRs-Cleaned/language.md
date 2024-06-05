@@ -1,0 +1,1 @@
+select implementation language criterion mature well known stable comprehensive ecosystem candidate elixir python javascript node commentary approved python author ntoll

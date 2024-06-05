@@ -1,0 +1,1 @@
+disallow user signups want easy people join organization however dont want random people signing spamming want admin user control account system dont capacity handle properly user interface right going disable devise registerable user model longer public sign site creation new account done backend consequence admins work sign user give control access site

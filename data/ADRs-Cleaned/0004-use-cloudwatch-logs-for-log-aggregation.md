@@ -1,0 +1,1 @@
+cloudwatch log log aggregation log generated instance container ability see search across instance cloudwatch log aggregate log utliize cloudwatch alarm notify error log generated consequence stream whatever generated stdout configuring log agent tail log file figured

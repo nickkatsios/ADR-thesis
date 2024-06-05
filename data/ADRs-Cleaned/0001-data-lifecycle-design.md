@@ -1,0 +1,1 @@
+data lifecycle design proposed guid ffffadddcf typename hivestoragedesc partitionkeys null alias null column guid efaaafaf typename hivecolumn guid ddefacafbccffba typename hivecolumn consequence consequence

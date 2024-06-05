@@ -1,0 +1,1 @@
+allow tft token drop freetft tfta token sdk completely drop freetft tfta currency dont ask always tft consequence flow becomes much easier easy reason

@@ -1,0 +1,1 @@
+remove monorepo monorepo multiple package including guui design however package migrated srcfoundation left monorepo one package remove yarn workspace monorepo restore basic yarn package merging dependency approved

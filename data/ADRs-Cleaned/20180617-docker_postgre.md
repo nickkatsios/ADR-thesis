@@ -1,0 +1,1 @@
+postgresql server introduced via docker compose developer able run application local machine isolated environment dockerized provides required service without setup fullblown server local machine provide docker compose setup postgre sql server consequence developer able isolated service docker host

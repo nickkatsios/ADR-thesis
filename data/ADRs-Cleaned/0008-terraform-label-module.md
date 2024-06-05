@@ -1,0 +1,1 @@
+terraform label module sometimes hard name resource aws identify clever guy cloudposse created terraformterraformlabel module aimed helping generate consistent label name tag resource module utilise terraformterraformlabel module consequence module every unique resource given resource type label follow convention namespacestagenameattributes

@@ -1,0 +1,1 @@
+adr hpack cabal file annoying specify tend fair bit redundancy found annoying past pain point include specify ghcoptions target specify common dependency target manually specify every exposed module hpack solves problem let hpack consequence since stack ill run hpack manually change file

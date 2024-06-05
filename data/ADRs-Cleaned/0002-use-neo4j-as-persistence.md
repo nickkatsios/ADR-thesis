@@ -1,0 +1,1 @@
+neoj persistence save information persistence layer order query explore data data working heavily relies describing relationship well suited graph like structure neoj persistence layer fairly popular graph database well documented mature product consequence cypher query language create read update delete data also increase deployment complexity topo

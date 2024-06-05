@@ -1,0 +1,1 @@
+replace flask django supercedes flask flask turned poorly designed piece software relay much magic like manipulation global object like seems like also decide relational database switch django well written server also battery included like good orm layer feature like middlewares simplify thing consequence extra work rewriting functioning code better development practice testing

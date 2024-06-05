@@ -1,0 +1,1 @@
+coding style multiple developer working codebase important share coding style improve readability tslint airbnb rule consequence part test script run tslint command make sure coding style rule respected

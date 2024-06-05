@@ -1,0 +1,1 @@
+semantic beta versioning issue versioning sometimes code updated regardless fix version onceui library beta versioning mechanism beta versioning mechanism publish prerelease version team environment testing purpose would onceui branch release version updated master branch onceui library consequence prerelease version master branch otherwise code updated regardless fix version

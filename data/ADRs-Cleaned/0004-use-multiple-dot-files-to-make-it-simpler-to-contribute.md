@@ -1,0 +1,1 @@
+multiple dot file make simpler contribute shell file make one big complicated file smaller self contained file mean new developer easily make useful change adding new file risk file one thing well consequence easier add new feature

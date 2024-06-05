@@ -1,0 +1,1 @@
+zero dependency keeping tool simple minimal easy install understand depend npm package unless there strong reason keep zero dependence counter much possible consequence reimplementing thing like file handling function isempty isundefined type query thats fine want keep control keep single place utils see there security problem sure code causing

@@ -1,0 +1,1 @@
+typescript static typing backfilled mentioned adr relatively modern tech stack project intended breakable toy experiment tech project first implemented javascript want static typing system catch error compile time document interface different function component project migrated typescript consequence install dependency alongside typescript ensure test linter support language

@@ -1,0 +1,1 @@
+published field field published freetext field also expressed scholarsphere entry cannot mapped actual way store nonparseable also kind validation well published validate api level database validate entry allows store anything migrating creating record mean api value entered api edtf must consequence bad data still moving forward shouldnt

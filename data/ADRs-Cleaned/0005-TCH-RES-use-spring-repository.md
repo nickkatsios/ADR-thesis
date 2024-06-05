@@ -1,0 +1,1 @@
+spring repository author problem statement technology persistence considered spring template jpa spring repositores driver technology must simple well known cannot require lot code writing jpaspring repository consequence library facilitates implementation persistence layer stable well known lot documentation link

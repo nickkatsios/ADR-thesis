@@ -1,0 +1,1 @@
+switch spring boot supercedes rapidoid rapidoid interesting framework try back since wanted switch project back spring boot demonstration purpose project switched spring boot

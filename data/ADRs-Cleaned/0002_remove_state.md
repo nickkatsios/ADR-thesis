@@ -1,0 +1,1 @@
+remove state object view model reverted adr think exposing whole state viewmodel fragment move logic fragment error prone opinion instead exposing whole state object expose single property individually handled fragment consequence fragment viewmodels refactored longer possible log whole state update within fragment class

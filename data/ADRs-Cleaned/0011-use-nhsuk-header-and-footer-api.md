@@ -1,0 +1,1 @@
+nhsuk header footer api api created build header footer link nhsuk want across nhsuk application build middleware function get header footer link api make available within nunjucks template also cache prevent massive amount call api consequence header footer consistent nhsuk require maintenance

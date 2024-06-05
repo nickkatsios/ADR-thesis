@@ -1,0 +1,1 @@
+apidocumentation want api selfdocumenting testable openapi hex package automate openapi task consequence generating validating coding testing apis much faster easier

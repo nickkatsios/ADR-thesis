@@ -1,0 +1,1 @@
+adr react tailwind frontend make easy user interact api frontend modern device frontend build react snowpack build tool application styled tailwind also considered following alternative solution vanilla html would work scope application vanilla would work take time generate nice layout consequence

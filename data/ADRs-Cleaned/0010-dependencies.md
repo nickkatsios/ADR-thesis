@@ -1,0 +1,1 @@
+dependency want guard outofdate dependency especially security issue githubs dependabot track dependency generate pull request stay consequence dependabot issuing intermediate branch dependency branch merged deploystaging periodically deploystaging backmerged needed

@@ -1,0 +1,1 @@
+lombok java project often contain large amount boilerplate code defining datavalue class builder etc code follows certain pattern testing writing error prone library enables cutting boilerplate code generates tested code would beneficial project lombok library reduce amount boilerplate code write consequence code maintain envisage succint codebase whose function readable

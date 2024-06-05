@@ -1,0 +1,1 @@
+crawlerdetect ignore bot tracking user journey user journey tracking allows see service http request made human request made bot crawler compromise accuracy data service usage add crawlerdetect gem dependency consequence request made bot ignored

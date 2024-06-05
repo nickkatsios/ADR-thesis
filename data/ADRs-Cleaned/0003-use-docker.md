@@ -1,0 +1,1 @@
+docker app able build basic environment without worry environmental difference app docker production deployment consequence enable development without environmental dependency ensure standard runtime environment development production

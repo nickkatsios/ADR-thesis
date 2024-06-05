@@ -1,0 +1,1 @@
+allow react native issue motivating influence constrains note react defaultimported esmoduleinterop flag seems like type conflict give reactnative adapter packageconfig tsconfigjson webworker related consequence becomes easier difficult risk introduced change mitigated

@@ -1,0 +1,1 @@
+move service top level initially directory structure language top folder service however make harder different language version service together keep monorepo easier handling project never grow large maintained different team move service top level language version service consequence setup make easy maintain project also make easier service different language together

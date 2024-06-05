@@ -1,0 +1,1 @@
+travis continuous integration want continuous integration make sure time build working check every commit possible choice travis circleci appveyor travis offer linux mac build window beta circleci support platform appveyor support linux window author already travis travis continuous integration consequence possible vendor lockin

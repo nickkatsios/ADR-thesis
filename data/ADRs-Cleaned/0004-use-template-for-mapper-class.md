@@ -1,0 +1,1 @@
+template mapper class deprecated problem statement lack certain method mapper cause implementation confusion implementation mapper class facing concern method application decided template neglected interface achieve project integrity consistency template interface

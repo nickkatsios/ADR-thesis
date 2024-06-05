@@ -1,0 +1,1 @@
+docker default tool provisioning progress different provisioning mechanism build tool jenkins global tool docker container tool specific manager like jenv sdkman want ensure homogeneous build across environment docker default tool provisioning consequence linux docker window required development platform

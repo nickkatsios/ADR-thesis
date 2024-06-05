@@ -1,0 +1,1 @@
+coretracker coretrackable interface instead legacy trackable interface deciders team team created new core tracker interface tracking event consistency replace coretrackable instead legacy trackable interface every new event must coretrackable also every new event new tracker approach consequence event tracking format coretrackable handling event easy simple

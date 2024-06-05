@@ -1,0 +1,1 @@
+title choosing frontend framework slug choosingafrontendframework author marvin amend pullrequest provide reason adr provide taken team consequence provide consequence side effect

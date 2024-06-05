@@ -1,0 +1,1 @@
+file store private key superseded user rps provide private key sign authnrequests decrypt response assertion provide verifyserviceprovider reasonably secure way different user may different opinion best initially well file chose environment variable theyre visible process chose complicated solution would complicated consequence user provide private key file

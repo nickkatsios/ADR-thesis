@@ -1,0 +1,1 @@
+symfony translation component provide translation capability way slot twig based rendering pipeline going symfonytranslation provide translation capability consequence symfonytranslation well able symfonytwigbridge package give much easier implementation path translation chief difficulty automated extraction translatable string

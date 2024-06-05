@@ -1,0 +1,1 @@
+instead self phpunit assertion phpunit assertion static method yet code base call instead self whilst incorrect usage break anything besides phunit documentation default much widely self community infection code much shortcoming incorrectness static method nonstatic one since clear benefit adopting self given usage keep usage self codebase

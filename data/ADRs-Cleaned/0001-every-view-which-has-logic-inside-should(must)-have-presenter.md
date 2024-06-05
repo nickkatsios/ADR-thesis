@@ -1,0 +1,1 @@
+every view logic inside shouldmust presenter deciders team viper architecture every view controller presenter topic come view cell dont presenter view contains whole logic wanted move business logic presenter write unit test presenter view business logic shouldmust presenter keep consequence business logic separated writing unit test possible

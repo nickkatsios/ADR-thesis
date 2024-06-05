@@ -1,0 +1,1 @@
+keep config simple possible existing verify configuration thing like metadata quite intimidatingly complex wed like application simple possible configure well try make config sane default wherever possible user doesnt specify thing shouldnt care user shouldnt specify thing dont truststorepath consequence may modify library class make flexible msa default could example

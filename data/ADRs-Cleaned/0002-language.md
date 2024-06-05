@@ -1,0 +1,1 @@
+language testing testing language universal simple easily testable shell java javascript dependency shell dependency installed pretty much everywhere developer consequence testing learning curve bat ensuring portability shellcheck async little awkward xargs

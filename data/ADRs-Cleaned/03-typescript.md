@@ -1,0 +1,1 @@
+typescript programming language weve found strongly typed programming language advantageous reducing software defect previously flow however error message regularly impenetrable without burden legacy codebase support benefit flow typescript significantly typescript programming language project

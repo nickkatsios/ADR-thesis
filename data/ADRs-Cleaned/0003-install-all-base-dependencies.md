@@ -1,0 +1,1 @@
+install base dependency possible install dependency child service base image increase image size speed child image build install common base dependency base image includes wsgi library flask related plugins development requirement consequence image size increase currently build time child image example building mapstorage image without docker cache take second

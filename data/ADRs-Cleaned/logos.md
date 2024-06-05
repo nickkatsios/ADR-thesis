@@ -1,0 +1,1 @@
+logo usage open source repos consulted legal reached conclusion cant consume bpklogos package opensource repos cant store logo asset bitmap pngs opensource repos cant store asset containing logo bitmap pngs opensource repos logo asset shown doc site hosted cdn equivalent instead

@@ -1,0 +1,1 @@
+gradle rule updated modularizing facing concern duplicated resource decided resourcesdrawables string style etc common module duplicated resource related multiple channel put trendyolbase module otherwise putting resource feature module

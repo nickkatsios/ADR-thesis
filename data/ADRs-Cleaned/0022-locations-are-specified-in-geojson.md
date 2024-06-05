@@ -1,0 +1,1 @@
+location specified geojson implement pubsub implement event sourcing large numer event odh contain location specific data usefull standardize usage location event geojson xyz location odh xyzt data needed geojsonevents considered consequence none

@@ -1,0 +1,1 @@
+record architecture project design explore architecture record architectural architecture log adl created recorded architecture record adr adr recorded michael template contains following section consequence consequence architectural recorded log old recorded well approximate new recorded regular basis

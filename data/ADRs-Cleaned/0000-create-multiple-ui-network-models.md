@@ -1,0 +1,1 @@
+create multiple network model problem statement response model directly layer cause create lot god object prevent flexibility increase dependency layer creating multiple model class network layer facing concern creating god object limiting ability modularize application decided multiple model class neglected single model class achieve flexibility fewer dependency

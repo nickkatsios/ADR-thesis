@@ -1,0 +1,1 @@
+architecture diagram document architecture precisely static model diagram project simon brown model consequence project became easier newcomer comprehend

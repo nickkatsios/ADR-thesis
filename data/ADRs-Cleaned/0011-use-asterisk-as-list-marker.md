@@ -1,0 +1,1 @@
+parent navorder asterisk list marker problem statement list markdown indicated asterisk hyphen considered asterisk hyphen outcome chosen asterisk asterisk meaning good bad whereas hyphen could read indicator something negative contrast could read good according markdown style guide asterisk list marker readable see readability profile

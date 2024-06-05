@@ -1,0 +1,1 @@
+design principle project want achieve achieve design principle project recruiter provide printable resume recruitment process easy develop maintain based latest web technology easy share automaticallly deployed hosted best aws demo current skill consequence refer design principle develop project

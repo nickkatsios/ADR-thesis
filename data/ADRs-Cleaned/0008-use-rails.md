@@ -1,0 +1,1 @@
+rail already decided ruby new application see adr team already familiar rail widely within moj rail web framework new application consequence wont make many library common functionality would chose minimal framework rail default everywhere microservices try include part reduce risk unneeded behaviour introducing vulnerability bug

@@ -1,0 +1,1 @@
+markdown architectural record problem statement want record architectural made project format structure record follow considered madr michael template formless convention file format structure outcome chosen madr semplate open source project may one developer colocated documenting architecture help cohesiveness architecture madr lightweight would fit workflow project

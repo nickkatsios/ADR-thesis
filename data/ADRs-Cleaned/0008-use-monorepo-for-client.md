@@ -1,0 +1,1 @@
+monorepo client development healthmodules often requires tandem work openchsandroid well much easier single repo ease development repos set lerna client side library set monorepo lerna consequence

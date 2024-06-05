@@ -1,0 +1,1 @@
+nativebase want quickly build test idea spend time writing style nativebase since everything customisable

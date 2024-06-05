@@ -1,0 +1,1 @@
+scalajs reduce cognitive load developer obviate javascript single language front back scalajs clientside consequence allows easily share code client serverside move front back depending

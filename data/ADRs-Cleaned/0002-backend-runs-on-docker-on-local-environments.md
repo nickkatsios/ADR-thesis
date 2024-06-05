@@ -1,0 +1,1 @@
+backend run docker local environment reliable infrastructure definition allow developer replicate environment local machine docker encapsulate architecture component docker compose orchestrate container local environment consequence backend code built executed inside docker container developer machine tool needed build run application docker docker compose

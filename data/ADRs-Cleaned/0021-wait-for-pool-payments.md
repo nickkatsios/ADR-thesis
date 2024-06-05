@@ -1,0 +1,1 @@
+wait pool payment pool payment fail due stellar transaction submission timeout since endpont httpsexplorerurlapivreservationspoolspaymentpoolid deployed wait method added wait payment info done successfully consequence pool payment chance success increased unless retries fail

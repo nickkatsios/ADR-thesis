@@ -1,0 +1,1 @@
+prettier prettier integrates well vscode conflict standard replace standard prettier

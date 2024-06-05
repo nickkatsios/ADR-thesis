@@ -1,0 +1,1 @@
+config name definition deciders team common config definition unnecessary exp prefix decided exp prefix create new common configs add exp prefix create new config stage prepod prod configuration panel islegacycommonconfig deprecated must iscommonconfig must define new common config

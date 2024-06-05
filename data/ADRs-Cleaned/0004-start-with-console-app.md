@@ -1,0 +1,1 @@
+start console app console appication siple app come mind creates console app send data via parameter consequence

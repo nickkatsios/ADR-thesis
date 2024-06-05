@@ -1,0 +1,1 @@
+postgresql database needed store technical structural metadata digital object postgresql robust relational transactional database already supported many project postgresql storing relevant digital object metadata consequence

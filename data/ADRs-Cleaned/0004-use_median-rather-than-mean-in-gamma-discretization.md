@@ -1,0 +1,1 @@
+median rather mean value discretizing gamma value order simulate smooth gamma curve discretize value gamma curve set category based decided median value rather mean calculating discrete value consequence slightly accurate

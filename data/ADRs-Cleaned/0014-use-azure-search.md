@@ -1,0 +1,1 @@
+azure search azure search organisationprogrammes strategic vision serving organisation service data remove maintain instance elasticsearch related infrastructure application azure search api provide pharmacy data consequence elasticsearch related infrastructure pharmacy search longer required

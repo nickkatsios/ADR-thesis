@@ -1,0 +1,1 @@
+isc license everything licensed otherwise default copyright law apply information see httpshelpgithubcomarticleslicensingarepository want repository base inspiration anyone without hassle considered isc license open source license outcome chosen isc license easy understand

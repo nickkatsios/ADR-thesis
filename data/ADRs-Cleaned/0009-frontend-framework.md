@@ -1,0 +1,1 @@
+frontend framework decide frontend application stylingcomponent framework stick angular together zorro ant design alain consequence prototype global deployment angular delivers productivity scalable infrastructure support google largest application

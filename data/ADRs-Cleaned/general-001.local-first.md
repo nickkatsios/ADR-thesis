@@ -1,0 +1,1 @@
+build application localfirst detail application save state database local machine first state replicated server reason application made work onetoones field team member stall rely network connectivity

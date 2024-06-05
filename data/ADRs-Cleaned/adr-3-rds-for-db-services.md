@@ -1,0 +1,1 @@
+amazon relational database service rds cloud dbms service selfservice cloud database make easy set manage database cloud amazon rds meet several desired characteristic performance robustness databaseindependence scaling costeffectiveness amazon rds persist digital object data consequence selection dependent goahead infrastructure team strictly hard requirement rds

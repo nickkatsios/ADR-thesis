@@ -1,0 +1,1 @@
+api without frontend open lobby must open stable api open lobby server api based api first design frontend written separate application web based mobile ensure working api anything frontend application consequence extra work api layer capable everything

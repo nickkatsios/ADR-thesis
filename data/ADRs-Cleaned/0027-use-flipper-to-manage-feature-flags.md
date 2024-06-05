@@ -1,0 +1,1 @@
+flipper manage feature flag feature dependent feature often stay unreleased time right feature branch difficult maintain meantime releasing feature done disabling dependency ready could make easier add flipper gem dependency consequence feature enabled disabled different environment based readiness

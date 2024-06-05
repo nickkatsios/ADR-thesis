@@ -1,0 +1,1 @@
+tinymce compose richtext email integration microsoft graph enabled user case management system compose email default html text box lack necessary formatting tool available typical email client making difficult compose email richtext editor would mitigate problem add tinymce dependency consequence richtext editor allows user usual formatting tool available email client

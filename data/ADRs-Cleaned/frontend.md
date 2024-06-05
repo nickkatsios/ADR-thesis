@@ -1,0 +1,1 @@
+front end record issue create simple dynamic user interface decided javascript react frontend framework decided pro popular already exposed class better performance since user add annotation local application instead making request componentbased framework well documented con totally flexible follow routine

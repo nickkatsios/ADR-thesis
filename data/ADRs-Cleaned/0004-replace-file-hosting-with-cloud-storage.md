@@ -1,0 +1,1 @@
+replace file hosting cloud storage container currently run nginx web server host output file consuming application container running file available nginx service removed gpdatajson file written team preferred cloud hosting platform consequence gpdatajson file available cloud storage consuming application deployment simplified container running single service

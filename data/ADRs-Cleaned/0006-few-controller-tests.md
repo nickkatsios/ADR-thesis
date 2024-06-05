@@ -1,0 +1,1 @@
+system test preferred controller test system test test erb controller time slower capybara one per rendered page important possible controller define variable erb require variable test controller erb pas separately page loading fail system test make sure codebase working properly general dont write many controller test tend rely overly mocking fully duplicitive system test

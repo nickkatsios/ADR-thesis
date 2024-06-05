@@ -1,0 +1,1 @@
+aws example cloud platform issue motivating influence constrains change proposing agreed implement consequence becomes easier difficult risk introduced change mitigated

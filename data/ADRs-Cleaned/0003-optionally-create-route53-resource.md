@@ -1,0 +1,1 @@
+optionally create route resource cannot assumed user module would manage dns aws user may cross account design prevents access hosted zone provide mean create custom route resource consequence module require additional testing test implementation turned given there one resource question impact negligible

@@ -1,0 +1,1 @@
+title asynchronous message notifier message sent order management rating manager recommendation manager asynchronous yes asynchronous dont wait ack sending next one consequence without asynchronous might many message stuck waiting sent bucket

@@ -1,0 +1,1 @@
+python package versioning simple way manage package version versioneer consequence create new release version simply creating corresponding git tag currently want local pip install work pip

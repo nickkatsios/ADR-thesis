@@ -1,0 +1,1 @@
+aspnet platform apis previous apis hackney written variety language framework including ruby rail aspnet nodetypescript aspnet hackney clean architecture framework specified api playbook application intended robust part hackits platform iterated upon hackit team mostly skillset consequence choosing stack mean hackit team able carry application forward future iteration support

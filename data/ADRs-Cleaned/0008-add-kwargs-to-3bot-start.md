@@ -1,0 +1,1 @@
+addkwargstobotstart adding package kwargs limitation hence kwargs needed every time start called adding package add kwargs passed package instance saved locally retrieved everytime threebot server restarts start package consequence package added kwargs save hence every restart package reloaded install package

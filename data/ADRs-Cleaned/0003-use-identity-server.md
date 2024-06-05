@@ -1,0 +1,1 @@
+identityserver application user authentication fine granularity role decided choose identityserver mature many people well documented project implement openid connect support external authentication google facebook consequence identityserver setup identityserver store role user api front thesis role authorize functionnalities

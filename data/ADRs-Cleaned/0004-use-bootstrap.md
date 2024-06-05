@@ -1,0 +1,1 @@
+bootstrap styling proposed would like easytouse system consistent style doesnt take much tinkering propose bootstrap gem pending consequence familiarity bootstrap likely necessary hope mediumtolong term benefit outweigh cost learn front

@@ -1,0 +1,1 @@
+kubernetes container orchestration expecting run large number container across several server different environment given think container orchestration tool selecting kubernetes docker swarm mesos selected kubernetes container orchestration platform due choice jasmin team made also established clear industry favourite consequence team learn kubernetes prior experience

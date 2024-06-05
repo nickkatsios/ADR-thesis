@@ -1,0 +1,1 @@
+elastic search data storage elasticsearch configured cluster reliability failover provides single point data update mongodb run single instance clustered nearbyservicesapi consume data elasticsearch rather mongodb consequence number deployed component reduced pharmacydb longer required longer maintain mongodb updaters elasticsearch updaters

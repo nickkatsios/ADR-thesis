@@ -1,0 +1,1 @@
+thymeleaf view choose view representation thymeleaf provides clean html view template run without server consequence maybe future rewrite frontend reactjs thymeleaf good start

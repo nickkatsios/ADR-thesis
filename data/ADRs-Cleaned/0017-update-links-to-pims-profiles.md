@@ -1,0 +1,1 @@
+update navigation link pims search result removed service link result page navigate pims profile overview page via link organisation name search result page update result page org name link pims overview page remove service link search result page consequence simplifies navigation pims make result page bit cleaner

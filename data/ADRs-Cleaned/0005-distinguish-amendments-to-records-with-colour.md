@@ -1,0 +1,1 @@
+distinguish amendment record colour amends distinguish superseded record colour architecture record may amended rather superseded small part change amended record although officially supported distinct flag adrtools distinguished record either superseded consequence map kind different formatting present refactoring opportunity

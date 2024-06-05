@@ -1,0 +1,1 @@
+name endpoint service ingres get inherited controlling externalservice easify finding according endpoint service ingres ressources named exactly externalservice ressource nethertheless course owner set correctly well every ressource get label app externalservicename change proposing agreed implement consequence order break scheme adjust place resource fetched applied

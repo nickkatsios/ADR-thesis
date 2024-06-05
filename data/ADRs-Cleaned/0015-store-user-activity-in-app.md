@@ -1,0 +1,1 @@
+storeuseractivityinapp keep record activity taken user gather quantitative research data avoid thirdparty tracking service since carry privacy concern lack clarity around retention rule additional user consent additional approval store record activity taken user inapp consequence storing activity log introduce additional database overhead term quantity data number query

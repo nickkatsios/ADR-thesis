@@ -1,0 +1,1 @@
+rescoping existing section problem statement duplicacy data scraping koshvani platform following section data already extracted ddowise expenditure section grantwise revenuecapital expenditure divisionwise expenditure driver section repeat data granulariy lesser ddowise expenditure section outcome main page aformentioned section contain new information require extraction

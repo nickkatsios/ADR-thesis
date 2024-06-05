@@ -1,0 +1,1 @@
+potential topic localization comparables type hierarchy ruleforeach style include sample predicate rule predicate foreach iterables iterators code structure might similar type hierarchy along comparables code structure explain individual number subject class probably needed primitive array httpsstackoverflowcomquestionsgenericmethodsforprimitivetypesinjava

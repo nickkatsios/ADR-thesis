@@ -1,0 +1,1 @@
+consequence ref outage postmortem june httpswwwpagerdutycomblogoutagepostmortemjune write incident report postmortem httpssysadmincastscomepisodeshowtowriteanincidentreportpostmortem

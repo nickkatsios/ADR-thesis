@@ -1,0 +1,1 @@
+adr make small ask user commit little possible given interaction creating new entity capture enough information create valid entity possible infer sensible default value mandatory field initial data defer capture optional data edit process rather submitting change field given entity edit submit change one one consequence

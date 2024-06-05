@@ -1,0 +1,1 @@
+multiple project software could developed one big gradle project would make integration easier time would make reuse code outside project harder one big project would probably lead worse code since would defined api boundary try modularize software multiple project achieve goal consequence change one module might unexpected sideeffects module

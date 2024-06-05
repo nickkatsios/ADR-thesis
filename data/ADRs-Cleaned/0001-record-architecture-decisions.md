@@ -1,0 +1,1 @@
+record architecture record future architectural made architecture record described michael article httpthinkrelevancecomblogdocumentingarchitecturedecisions consequence see michael article linked lightweight adr toolset see nat pryces adrtools httpsgithubcomnpryceadrtools

@@ -1,0 +1,1 @@
+continuously deliver travis libero automated human feedback pull request release candidate provide travis build repository covering testing deployment demo environment consequence sandboxing someone hardware relief maintenance burden limited capability customize environment build remove duplication pipeline tune performance

@@ -1,0 +1,1 @@
+home compute want build hello world application one following approach container etc serverless aws lambda aws lambda particular assignment consequence pro cost effective optimised short running process function lowno infrastructure manage server well suited stateless application con cold start vendor lockin container portable see aws lambda limit detail previous next

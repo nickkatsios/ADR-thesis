@@ -1,0 +1,1 @@
+adr haskell reason building project experiment different architecture video game particularly interested functional programming applies game since personal project fun right find functional programming fun paradigm find static type fun dynamic type additionally trying get better haskell therefore haskell seems like obvious choice haskell consequence game written haskell

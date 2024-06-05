@@ -1,0 +1,1 @@
+packagejson sometimes dependency packagejson immediately clear maybe locked particular version cant add comment packagejson explain thing file place add note dependency eslintd dependency speed eslint isnt called directly code automatically integrates editor make linting faster

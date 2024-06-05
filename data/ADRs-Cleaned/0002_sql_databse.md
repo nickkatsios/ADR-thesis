@@ -1,0 +1,1 @@
+sql database postgresql start public project architecture seen weird going sql database postgresql database work nosql database mongodb last year time get sql database postgresql free mature popular side project like one consequence learn postgresql somebody would like learn ddd repo easier herhim postgresql commonly known

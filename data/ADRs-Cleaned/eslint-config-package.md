@@ -1,0 +1,1 @@
+eslint config package create separate package eslint config rationale separate package allows eslint config shared package isolates eslint config dependency rest package

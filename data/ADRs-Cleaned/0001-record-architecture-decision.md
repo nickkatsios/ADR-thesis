@@ -1,0 +1,1 @@
+record architecture project example clean code best practice software development necessary save architectural one place architectural architecture log adl created recorded architecture record adr adr recorded michael template contains following section consequence consequence architectural recorded log old recorded well approximate new recorded regular basis

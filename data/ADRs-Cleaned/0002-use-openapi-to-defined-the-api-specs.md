@@ -1,0 +1,1 @@
+openapi defined api spec define api specification service going implement openapi specification aka swagger spec standard rest api definition consequence provide api definition yaml format instead json openapi api definition file due improved readability

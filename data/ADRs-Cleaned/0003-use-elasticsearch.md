@@ -1,0 +1,1 @@
+elasticsearch data storage search superceded azure search elasticsearch configured cluster reliability failover provides single point data update elasticsearch filtering different service data requirement application application elasticsearch service data retrieval purpose consequence existing elasticsearch instance able reducing setup configuration time

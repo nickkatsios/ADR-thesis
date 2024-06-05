@@ -1,0 +1,1 @@
+sentry application exception monitoring application needed real time production error discovery reporting sentry currently various application sentry application exception monitoring consequence logging related configuration checked ensure sentry bombarded irrelevant stack trace ingests etc

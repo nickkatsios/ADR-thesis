@@ -1,0 +1,1 @@
+lockfree want able write log entry file stdout without interleaved also want logging perform well unlike ruby standard logger greenlog lockfree logging approach avoid mutexes serialise output perform atomic writes stream consequence code simple performance good risk interleaving log entry size serialized entry get pipebufmax linux

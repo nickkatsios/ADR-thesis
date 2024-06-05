@@ -1,0 +1,1 @@
+allow adr everyhwere considered alternative allow everywhere restrict type restrict subeset possible elementtypes retentionpolicysource outcome chosen alternative allow everywhere allows annotation present everywhere restrict usage developer

@@ -1,0 +1,1 @@
+usecase scope end summary focus primary usecases drove development rather usecases see today detail initially want focus primary usecases drove development system whole individual component connection component revisit granular usecases various level later example individual editing usecases rather editing data general

@@ -1,0 +1,1 @@
+decouple domain model representation domain model asis persistence overthewire communication making difficult define proper strong domain model separate dtos defined persistence overthewire communication adequate representation usecase without affecting domain model consequence domain model better follow ubiquituos language also avoid anemic domain

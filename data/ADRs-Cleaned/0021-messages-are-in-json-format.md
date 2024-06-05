@@ -1,0 +1,1 @@
+message json format implement pubsub implement event sourcing implemented single schema per topic preferred single message type business event make easier handle message pubsub system standerdized way business event odh platform topic formatted json consequence disadvantage message deliverd odh message system conneted odh might message format case message transformed one layout

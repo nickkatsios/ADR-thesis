@@ -1,0 +1,1 @@
+dependency injection container simple way decouple code simple way swap component mocked one testing purpose awilix provide ioc container service controller registered consequence system component encapsulated class registered ioc container well defined name responsibility ioc container manage class instantiation dependency resolution

@@ -1,0 +1,1 @@
+sherd file unique make merging history easy amends store shard timestamped directory file sherd file named time recorded relate however tiny chance two people might record sherd time merging two commits pain include large bit random base encoded bit string file name ensure uniqueness consequence easier merge commits entire history harder parse timestamp sherd filename

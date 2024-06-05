@@ -1,0 +1,1 @@
+dynamically get branch threebot deployer threebot deployer hardcode branch deploy code annoying deploy another branch getting branch dynamically active branch jssdk repository consequence making easier get branch deploy instead hardcoding fails get development usual

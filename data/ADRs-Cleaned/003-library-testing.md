@@ -1,0 +1,1 @@
+library testing recommended testing strategy term tooling coverage test type test unit test testing libs framework testing approach test test merging releasing architecture check every public groovy class method least one unit test aim branch coverage junit assertj archunit consequence every checked reviewer carefully production also testing code

@@ -1,0 +1,1 @@
+sprout fails transaction progress sprout node fails transaction progress transaction fails either retry automatically display error user retry transaction fail cant routed sprout point pcscf retry transaction consequence ueuser retries transaction fails flow chart

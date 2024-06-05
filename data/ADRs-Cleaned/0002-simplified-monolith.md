@@ -1,0 +1,1 @@
+record architecture quickly check database connection created object result northwind database reverse engineering simple call handler dbcontext without middle layer consequence project best practice software development like usage viewmodels directs lack separation domain application logic

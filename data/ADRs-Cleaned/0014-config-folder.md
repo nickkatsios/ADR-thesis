@@ -1,0 +1,1 @@
+config folder root folder becoming larger due many configuration file placed create config folder include dotfiles configure different tool consequence start adding new configuration file whenever possible folder progressively move existing file folder toolsci script might work default careful explicit look config file

@@ -1,0 +1,1 @@
+terraform previously weve kept terraform code separate github repository nulterra effect making change cumbersome weve decided keep meadow terraform code inside meadow repository root directory called terraform consequence easier maintain deployment code alongside app developer run terraform apply within terraform directory meadow app local machine

@@ -1,0 +1,1 @@
+vagrant virtualbox setup kubernetes cluster supercedes kubeadm rational rational tradeoff tradeoff considered contributor name name

@@ -1,0 +1,1 @@
+title number database required state data required following component inventory customer order management rating manager recommendation manager database component initially however save number distrubted transaction storing state data one database agreed one database would sufficient consequence none

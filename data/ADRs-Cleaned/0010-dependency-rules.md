@@ -1,0 +1,1 @@
+gradle rule problem statement number module count increased new feature new channel dependency module getting hard comprehend channel depend channel feature common module channel check module guideline understand build dependency management

@@ -1,0 +1,1 @@
+integration event implementation axon framework integrationeventsimplementationmd defined solution springevent related class publishing listening integration event current implementation application axon framework rich tool implementing functionality migrating axon implementation integration event future enable event sourcing axon framework integration event implementation

@@ -1,0 +1,1 @@
+portsadapters application architecture style contextadjecent adopt application architecture style adjecent architectural driver portsadapters architecture style consequence fast start development scratch dependency external system dependency easy add new user interface comic book online source offline storage future

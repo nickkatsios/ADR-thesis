@@ -1,0 +1,1 @@
+backend frontend application front end possibly mobile app differents access common specific api somes data differently every front end specific backend manage differents consequence create one api front end

@@ -1,0 +1,1 @@
+testing framework implement create software defined everything variety javascript testing framework made available automation tester become cause confusion many natural front time take decide javascript automation testing framework fit best decided cypress testing framework frontend testing consequence

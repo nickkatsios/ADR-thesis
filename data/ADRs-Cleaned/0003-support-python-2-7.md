@@ -1,0 +1,1 @@
+support python help application developer migrate project python support python best effort level consequence application written python able lazy configuration via konfetti simplify writing test porting code newer python version cost maintaining compatibility code tolerable type harder annotate

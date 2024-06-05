@@ -1,0 +1,1 @@
+performance fastest faster slower slowest access prototype closure objectgetprototypeof reflectgetprototypeof proto access property objectkey reflecthas reflectget create proxy create function create class closure replace objectgetprototypeof direct access replace reflectget consequence closure increase memory consumption

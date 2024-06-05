@@ -1,0 +1,1 @@
+design guideline deciders team creating design guideline team member follow defined rule assign corner radius shadow border widthcolor text color background color text size tint color storyboard color isnt color palette case contact designer team add icon svgs choose single scale adding consequence project ready implement design guideline

@@ -1,0 +1,1 @@
+document api client service provider communicate api decide request response look like swagger document api client serviceprovider form part documentation strawman send user risk consequence work autogenerate api documentation

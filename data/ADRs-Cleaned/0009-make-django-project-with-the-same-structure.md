@@ -1,0 +1,1 @@
+django project based django dont structure make project hard read handle thing store apps one place support different environment store project related configs make skeleton django httpsgithubcomhuifenqidjangoprojectskeleton consequence make new project skeleton apply structure old project refactoring

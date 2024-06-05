@@ -1,0 +1,1 @@
+jest testing want test framework good support typescript node jest fast testing framework good resource mocking jest testing framework

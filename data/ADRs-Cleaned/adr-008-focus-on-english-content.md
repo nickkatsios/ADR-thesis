@@ -1,0 +1,1 @@
+adr focus english content first iteration content item written different language publishingapi return contentid along locale assigned content item focus content written english main reason would different algorithm library make application consistent among language locale real support future iteration data warehouse benefit make codebase simpler

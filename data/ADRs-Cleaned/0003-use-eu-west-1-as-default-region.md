@@ -1,0 +1,1 @@
+euwest default region choosing default region start resource euwest ireland default consequence new service first deployed ireland region utilize decided ireland default region project

@@ -1,0 +1,1 @@
+update threebot deployer flist deploying hosted bot take lot time cloning installation time make new flist build always reduce installation time update flist one consequence significantly reduce deployment time hosted bot

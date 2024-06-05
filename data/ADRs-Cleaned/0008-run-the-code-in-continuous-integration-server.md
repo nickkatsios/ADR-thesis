@@ -1,0 +1,1 @@
+run code continuous integration server addition writing test component run test continuously jenkins run test project also run linter prettier consequence good check place make sure breaking code notice time something wrong

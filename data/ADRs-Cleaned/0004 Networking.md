@@ -1,0 +1,1 @@
+http library write http code considered retrofit okhttp okhttp none write code outcome chosen retrofit okhttp produce highly performing clean networking code one try reinvent wheel library open source well maintained year positive consequence code cleaner code high performance highly adopted negative consequence dependency ever deprecated work needed link retrofit okhttp

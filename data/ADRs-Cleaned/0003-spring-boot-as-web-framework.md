@@ -1,0 +1,1 @@
+spring boot web framework choose web framework app spring boot allows starting fast concentrating business logic app rather working infrastructure task consequence spring big slow contains lot black magic inside may meet issue standard component easily configurable debugging complicated produced binary big slow

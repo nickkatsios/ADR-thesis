@@ -1,0 +1,1 @@
+serialize akka persistence protobuf akka persistence resilient message schema change cantshouldnt rely java serialization big serialization approach would json protobuf thrift httpblogcodeclimatecomblogchooseprotocolbuffers google protobuf serialization consequence give layer seam well able migrate message brings another stage sbt build

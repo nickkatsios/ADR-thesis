@@ -1,0 +1,1 @@
+avoid default export avoid default export codebase named export instead link httpshumanwhocodescomblogstopusingdefaultexportsjavascriptmodule httpsbasaratgitbookiotypescriptmaindefaultisbad

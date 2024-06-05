@@ -1,0 +1,1 @@
+package structure try structure package logical subunit want maintain consistent public interface allow arbitrarily nested subpackages export important class function top level thus exposing public interface unit test reflect package structure consequence creating many module subpackages increase complexity dependency internally improve separation clearly defined intefaces

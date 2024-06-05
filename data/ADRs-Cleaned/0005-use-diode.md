@@ -1,0 +1,1 @@
+diode httpsgithubcomsuzakuiodiode diode provides consequence make easier reason state give easily testable function nice separation view model model update

@@ -1,0 +1,1 @@
+cluster authentication ssh key configure access server cluster decide password authentication ssh key pair authentication decided server log authentication ssh key pair authentication public key provisioned onto server server creation default deploy user password required sudo consequence administrator require ssh key pair

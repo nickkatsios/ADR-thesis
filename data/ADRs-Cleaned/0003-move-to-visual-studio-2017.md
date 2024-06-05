@@ -1,0 +1,1 @@
+move visual studio visual studio released roughly year includes improvement standard conformance feature complete many feature part maintenance cycle release move window compiler forward visual studio step towards requiring minimum standard consequence window developer access feature

@@ -1,0 +1,1 @@
+add shapely python dependency datasetdownload performing client side spatiotemporal filtering filtering adding spatial index search tool therefore required relates willnotusestacapiforspatiotemporalfilteringofdatasetdownloadsmd httpsradiantearthatlassiannetbrowseme add shapely python dependency consequence radiantmlhub client get another python dependency tradeoff

@@ -1,0 +1,1 @@
+document architecture adrs thu aug cest milestone project useful keep architectural documented one place development related must documented adrs consequence pro easy fast look architectural learn stick prof better con write every time new made new markdown file reference wikipedia adr

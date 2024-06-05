@@ -1,0 +1,1 @@
+dont support scratch imagessprites imagesprite related block scratch support imagessprites ftduino way show imagessprites scratch imagessprites imagesprite related block supported consequence imagessprites imagesprite related block converting block fail

@@ -1,0 +1,1 @@
+viewmodel exposing whole state instead single data stream reverts adr saw result adr update stream mess read blog post regarding redux like android apps move back exposing whole state object viewmodel viewmodels exposing single state object sealed class handled fragment consequence viewmodel class refactored state class implemented therefore also unit test altered fit new logic

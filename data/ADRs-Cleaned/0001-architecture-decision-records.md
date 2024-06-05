@@ -1,0 +1,1 @@
+architecture record project documentation team decide adr architecture record create faster read history anyone want meet life project consequence record made type doc based consequence

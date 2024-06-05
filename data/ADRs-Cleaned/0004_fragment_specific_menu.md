@@ -1,0 +1,1 @@
+extend application bar search feature consistent way add menu within fragment every fragment handle menu independently achieved calling sethasoptionsmenutrue overriding specific method needed creating menu handling selection event consequence implementation could differ fragment address code review

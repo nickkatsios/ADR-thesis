@@ -1,0 +1,1 @@
+code testing setting different testing environment configuration painful error prone process tox define configure run different test scenario consequence tox mean every developer reproducible test scenario even though cause slight burden proper configuration

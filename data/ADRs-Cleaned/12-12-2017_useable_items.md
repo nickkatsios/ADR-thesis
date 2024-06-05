@@ -1,0 +1,1 @@
+create useable item class item already way combat way add item change flow battle eventually money shop system add combat variation create way item integrate combat flow progress added healing item

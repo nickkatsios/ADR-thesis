@@ -1,0 +1,1 @@
+molgenis core apps proposal see frontend architecture session background information microfrontendspa architecture going merge following apps together molgenisuicore app navigator data explorer datarowedit

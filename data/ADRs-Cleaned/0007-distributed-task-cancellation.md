@@ -1,0 +1,1 @@
+distributed task cancellation lazy consensus task could run node cluster interrupt notify node cancel request add eventhandler broadcast cancelrequested event worker listening rabbitmq broadcasting exchange taskmanager register exchange apply cancel taskmanagerworker task waiting progress consequence task manager event system bound rabbitmq exchange publish terminationevents

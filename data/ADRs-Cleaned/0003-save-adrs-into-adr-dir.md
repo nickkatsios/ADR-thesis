@@ -1,0 +1,1 @@
+save adrs adr dir dir save adrs save adrs top level adr dir another put docsadr along sphinx doc might bit hidden consequence documentation two dirs adr doc different kind documentation matter

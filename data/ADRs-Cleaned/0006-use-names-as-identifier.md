@@ -1,0 +1,1 @@
+parent navorder name identifier problem statement listed considered repeated pro con finally chosen stated outcome driver easy read easy write avoid copy paste error considered repeat name occur assign identifier gradle build tool outcome chosen repeat name occur markdown standard identifier document harder read multiple must remembered

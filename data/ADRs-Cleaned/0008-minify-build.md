@@ -1,0 +1,1 @@
+minify build agentframework also browser minify build packagejson dont property called minmain consequence hard read generated build read source code directly

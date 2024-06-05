@@ -1,0 +1,1 @@
+unified terminology easy different term meaning thing code common aphorism difficult thing coding naming terminologymd document created collect official term project naming diverts terminology considerd bug consequence new code adhere term found terminologymd document become augmented project progress term found terminology document

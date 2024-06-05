@@ -1,0 +1,1 @@
+increase zookeeper timeout zookeeper timeout last night brought several solr server factor might make server unresponsive garbage collection network trafficlatency high amount disk increase zookeeper timeout second second consequence higher timeout sync node may become failure detected orangelight index problem much search activity indexing activity mitigates risk

@@ -1,0 +1,1 @@
+simulator description api receive vehicle location information simulator generate vehicle movement testing purpose team decide make separate simulator service consequence separate service improve api functionality separation introduces singleresponsibility principle

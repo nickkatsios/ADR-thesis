@@ -1,0 +1,1 @@
+gradle rule problem statement databinding significant negative impact build time due annotation processor view state binding facing concern increased build time decided viewbinding neglected databinding achieve shortened build time

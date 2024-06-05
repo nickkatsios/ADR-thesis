@@ -1,0 +1,1 @@
+dockerized architecture first draft release highly configurable effort deployment phase done docker compose local prod yml file govern deployment consequence normal way deploying supported anymore

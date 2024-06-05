@@ -1,0 +1,1 @@
+gradle rule deprecated app navigation module facing concern creating circular dependency causing longer build time decided creating navigation module neglected reflection create fragment instance achieve app navigation accepting argument class dto reflection break type safety

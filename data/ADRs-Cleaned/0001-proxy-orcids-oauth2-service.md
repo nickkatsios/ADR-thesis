@@ -1,0 +1,1 @@
+proxy orcids oauth service allow application journal orcids oauth service combine data provided orcid source future proxy orcid oauth service allows profile see access token orcids api consequence application configured elifes oauth service rather orcids directly user two extra redirects pas profile authorising journal profile orcid profile journal

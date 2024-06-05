@@ -1,0 +1,1 @@
+prettier code formatter code formatting problem scaling team developer code styling preference causing unconsented code tool normalize javascript code formatting prettier tool javascript code formatting consequence developer stick one code styling instead preference prettier setup machine related category javascript code formatting

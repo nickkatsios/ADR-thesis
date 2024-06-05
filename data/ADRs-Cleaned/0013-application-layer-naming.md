@@ -1,0 +1,1 @@
+application layer naming clearing naming layer lpa service layer front service layer actor access service front service layer viewer access service backend service shared two front service provide data access domain logic service called actor front viewer front api consequence common naming convention layer

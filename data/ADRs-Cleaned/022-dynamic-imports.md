@@ -1,0 +1,1 @@
+support dynamic import newest version javascript support import way dynamically import module module live url loaded cross origin therefore useful variety mechanism lazyload content browsersupport high enough forgo polyfill support import via polyfills browser possible directly override import dynamic import exposed via windowguardianpolyfilledimport approved

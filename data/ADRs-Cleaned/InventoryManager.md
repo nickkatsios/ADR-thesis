@@ -1,0 +1,1 @@
+title inventory manager take care fridge inventory manager fridge manager inventory manager would hold food item fridge would manage physical fridge inventory manager manage following manage fridge manage food item including pricing manage number item fridge consequence would easier inventory manager take care item rather separate manager

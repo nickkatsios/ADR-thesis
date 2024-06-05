@@ -1,0 +1,1 @@
+typescript want confident code write selfdocumenting much possible typescript compiled language optional typing superset javascript familiar developer know javascript wide editor support writing typescript million repository github typescript default consequence add overhead developer become familiar typescript arent also add overhead dependency without existing type definition

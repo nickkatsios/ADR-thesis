@@ -1,0 +1,1 @@
+python python support discontinued python first version natively support fstrings sweet make early support python consequence single code base targetting one major version fstrings fhello name

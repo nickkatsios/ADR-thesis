@@ -1,0 +1,1 @@
+yaml configuration file order custom adr template must possible configure path template must adrs structured way template path defined via yaml configuration file consequence add symfonyyaml dependency project single place truth directory must removed console command directory defined configuration file

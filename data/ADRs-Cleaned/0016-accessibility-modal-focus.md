@@ -1,0 +1,1 @@
+handling tab focus within modal proposed since application comply accessibility rule want make easier deal tab focus modal package reactfocuestrap httpswwwnpmjscompackagefocustrapreact simple wrapper creates focus trap box

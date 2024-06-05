@@ -1,0 +1,1 @@
+saved data hunt designed hour long longer player may time block way save progress hunt inside game want administer database everything come along user access group etc store progress hunt local file database thing allow reset hunt loading consequence remove admin database remove network complexity keep cost low

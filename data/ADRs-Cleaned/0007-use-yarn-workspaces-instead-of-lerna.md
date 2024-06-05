@@ -1,0 +1,1 @@
+yarn workspace instead lerna lerna pain working described doc seems bit old crufty built yarn workspace thing switch yarn workspace may also mono rush add extra feature managing monorepo consequence switching back npm yarn package management

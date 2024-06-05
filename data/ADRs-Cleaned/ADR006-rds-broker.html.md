@@ -1,0 +1,1 @@
+title adr rds broker adr rds broker provide tenant ability provision database application first iteration rds investigated implementation service broker supported rds platform eng platform eng rds broker supported product fork maintain implement new feature consequence maintaining new service broker head start creating basing existing service broker

@@ -1,0 +1,1 @@
+semver versioning software versioned conveys lot meaning end user consistent known way versioning softeare end user plan upgrade better overall expereince suprised breaking change semver guideline version number project consequence easier convey scope change release end user harder thought must given version number preparing release ensure specification followed

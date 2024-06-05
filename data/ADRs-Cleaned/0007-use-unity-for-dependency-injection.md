@@ -1,0 +1,1 @@
+unity dependency injection extends dependency injection amended autofac dependency injection issue motivating influence constrains change proposing agreed implement consequence becomes easier difficult risk introduced change mitigated

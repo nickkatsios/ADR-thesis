@@ -1,0 +1,1 @@
+create backend client lib offchain data accessible via rest api currently system component direct rest call various place making unit test hard create client library dependency component want read offchain data include mocked version service unittests rely implementation consequence client added separate package test utilise mocked version

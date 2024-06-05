@@ -1,0 +1,1 @@
+manage dependency yarn backfilled supercedes manage clientside dependency bower project first starting bower tool choice managing frontend dependency bower since deprecated creator advised user migrate solution dependency managed yarn consequence dependency declared packagejson managed via yarn bower dependency bowerjson removed

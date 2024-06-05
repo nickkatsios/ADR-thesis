@@ -1,0 +1,1 @@
+agnostic markdown type problem statement one type markdown exists one supported considered support github flavored markdown gfm support commonmark support asciidoc outcome library handle form markdown positive consequence form markdown determined user supplied template negative consequence library subset feature common markdown language single new line ignored

@@ -1,0 +1,1 @@
+queryservice tarball adr building queryservice docker image currently versioned release tarballs published wmf package already contains required component build docker image dont see reason alter publish release produce queryservice tarball published consequence existing queryservice release tarball building docker image building tagging docker image wmf release version

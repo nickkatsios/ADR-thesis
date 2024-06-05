@@ -1,0 +1,1 @@
+dashboard etcd visualize metric etcd cluster would like implement dashboard red method measure performance system hosting etcd cluster red measure performance grpc side etcd cluster havent found anything like time waste found dashboard grafana site metric time going implement configuration management system automatically provision dashboard datasource consequence nothing

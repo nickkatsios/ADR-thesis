@@ -1,0 +1,1 @@
+plantuml default way create uml diagram occuring often drawn documentation longer going plantuml store diagram repository consequence everyone write uml diagram clean plantuml still remember update commit code review shouldnt pas plantuml diagram isnt updated

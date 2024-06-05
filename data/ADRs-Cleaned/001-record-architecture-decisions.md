@@ -1,0 +1,1 @@
+record architecture record architectural made project architecture record described michael article httpthinkrelevancecomblogdocumentingarchitecturedecisions change approach keep adrs project repository docsadrnnnexplanationofadrmd consequence see michael article linked

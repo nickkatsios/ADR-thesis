@@ -1,0 +1,1 @@
+api architecture correct architecture application flexible legible rest api consequence good handling multiple user uniform interface

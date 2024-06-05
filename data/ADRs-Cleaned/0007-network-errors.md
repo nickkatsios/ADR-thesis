@@ -1,0 +1,1 @@
+network error server may return information http response code however response may still contain useful data fail default notifying network error add continue retrieving asset treating response code consequence monolith fail obtain resource unless told ignore network error

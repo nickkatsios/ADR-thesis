@@ -1,0 +1,1 @@
+rspec factorybot unit testing want unit test framework feature rich minitest factorybot add feature test data provided fixture add rspec factorybot project consequence test take littel longer easier set complicated data

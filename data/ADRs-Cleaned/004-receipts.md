@@ -1,0 +1,1 @@
+receipt data considered current scope supersedes adr problem statement required subsection analysed receipt requirement receipt section current scope discussed driver project scope either engagement good incorporated later outcome receipt section parked analysis scope picked later depending requirement

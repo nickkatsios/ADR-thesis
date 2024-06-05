@@ -1,0 +1,1 @@
+adrnxuiuipermalink permalink browser url store temporary data order create permalinks shared user quickly activate preference setting chosen next router access query variable javascript const router userouter const myfield routerquery myfield undefined set query field url component javascript routerreplace pathname yourpath query myfield myvalue undefined shallow true

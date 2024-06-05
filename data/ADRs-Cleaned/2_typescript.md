@@ -1,0 +1,1 @@
+design typescript background decide whether typechecking finding typescript provides advantage builtin documentation type checking improved maintainability project typescript styledcomponent theme advantage enforcing theme structure also since planning making public project support typescript make friendly contributor typescript made

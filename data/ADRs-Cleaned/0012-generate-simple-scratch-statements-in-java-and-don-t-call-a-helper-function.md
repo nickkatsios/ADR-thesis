@@ -1,0 +1,1 @@
+generate simple scratch statement java dont call helper function adr say complex scratch function implemented helper function statement like ifelsewhile harder function would take function executed success would complex simply statement code simple scratch statement directly generated java file simple scratch statement ifelsewhile consequence

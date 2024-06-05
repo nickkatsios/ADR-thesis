@@ -1,0 +1,1 @@
+decided nodejs platform backend system deployed heroku two main reason platform familiar key stakeholder project brendan uniformity frontend netlify part project potentially sharing model code future see message slack message around

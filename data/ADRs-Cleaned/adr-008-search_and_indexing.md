@@ -1,0 +1,1 @@
+search choice proposed per adr clucy take hour process index elasticsearch frontend lucene

@@ -1,0 +1,1 @@
+one time event livedata event pushed certain lifecycle event rotating device returning fragment another navigation path error special event like automatic navigation executed new event introduced viewmodels clear purpose occur consequence existing viewmodel class one time event edited second livedata variable exposed view also state none skipped view

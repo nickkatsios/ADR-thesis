@@ -1,0 +1,1 @@
+solve xunitmsbuild problem assembly merging encountered probelms xunit task run msbuild xbuild work unable locate required xunit assembly solved copying missing file directory msbuildexe way may easier consume merge required assembly conduitadaptersbuilddll conduitadapterstargetsdll consequence easier consumption build file polluted copying target

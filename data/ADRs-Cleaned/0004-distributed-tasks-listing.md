@@ -1,0 +1,1 @@
+distributed task listing lazy consensus switching task manager distributed implementation able list task running cluster read cassandra projection get task consequence cassandra projection done eventsourcingsystem listener updating projection

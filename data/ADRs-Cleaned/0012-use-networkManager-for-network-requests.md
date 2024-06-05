@@ -1,0 +1,1 @@
+networkmanager instead fetchable protocol deciders team team created networkmanager network request consistency replace networkmanager instead fetchable protocol every new interactors must networkmanager also every new endpoint new networker approach consequence interactor method format networkmanager handling endpoint easy simple

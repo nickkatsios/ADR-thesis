@@ -1,0 +1,1 @@
+key pair utility superceded session manager shell access instance creating client instance test msk cluster key pair needed instance accessed decided provide keypair utility enable user import existing key aws scenario provide key generation mechanism consequence user wanting run client instance example generated key value pair prior utility

@@ -1,0 +1,1 @@
+delete record database table completely delete file easy thing invenio achieve goal tried delete many info possible delete record mean delete disk database table indexing anymore decided delete table except recordmetadataversion consequence way table show operation create delete made file behaving like log table file history

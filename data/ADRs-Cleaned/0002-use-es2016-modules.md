@@ -1,0 +1,1 @@
+module introduced native support concept module scoped file expose public function module way organizing sharing code module organize share code information found httpexploringjscomeschmoduleshtmlsecmodulesinjavascript consequence nature project made lieu choosing framework want able learn new feature without framework getting way

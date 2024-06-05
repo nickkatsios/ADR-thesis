@@ -1,0 +1,1 @@
+build setup build tool necessary various task compile test packaging deploying code maven build backend uniprot rest api component consequence maven automates building task frequently development production plethora plugins library enable easy customisation configuration

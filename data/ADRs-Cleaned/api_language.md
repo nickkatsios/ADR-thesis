@@ -1,0 +1,1 @@
+api language choosing proper programming language primary choice new project php consequence php fast easy learn language great community support entering project easy entire team team supported experienced php supervisor

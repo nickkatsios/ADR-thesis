@@ -1,0 +1,1 @@
+rail event storm learning ddd arkency course going start solution propsed rail event storm library publishing consuming storing retrieving event according creator arkency best companion going eventdriven architecture rail application consequence going base eventdriven architecture budgeting app

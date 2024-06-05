@@ -1,0 +1,1 @@
+namespaces grouped functionality installing manifest helm chart pick namespace often choice made drive fashion leading inconsistent configuration want install shipped component namespaces grouped functionality example externaldns namespace dns fluentbit namespace logging consequence might best practice potential user might want override namespaces wait come

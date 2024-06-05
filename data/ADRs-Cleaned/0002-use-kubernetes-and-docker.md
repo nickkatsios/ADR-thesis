@@ -1,0 +1,1 @@
+kubernetes docker lot exist create application nowadays serverless paas saas etc purpose project hone kubernetes docker skill particular may mean technology seem engineered kubernetes docker amazon eks consequence time may spent deployment infrastructure management

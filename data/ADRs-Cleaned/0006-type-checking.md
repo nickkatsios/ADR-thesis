@@ -1,0 +1,1 @@
+typechecking static typechecking available python making type annotation already codebase typecheck via mypy consequence testing still important type checking help eliminate bug via static checking even part code exercised test additionally typechecking relies type annotation ensuring annotation correct complete

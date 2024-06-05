@@ -1,0 +1,1 @@
+provide package problem statement docker image include package subset package considered provide package provide subset package provide minimal set package texliveonfly outcome chosen provide package texliveonfly work package speedsup compilation time additional download accept final image size

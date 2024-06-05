@@ -1,0 +1,1 @@
+mongodb app database store user data including authentication note app mongodb database system jsonlike structure wellsuited storage simple text consequence require mongoid rather activeadmin break standard ruby

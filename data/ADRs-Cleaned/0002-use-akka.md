@@ -1,0 +1,1 @@
+akka amplifies scala programming language able monitor network service separately akka managing task monitor particular network service consequence akka new tool learn master akka available scala java scala widely spread support available scala

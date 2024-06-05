@@ -1,0 +1,1 @@
+xctest unit test instead quicknimble deciders team problem third party library unittest instead xctest unittests likely behavioural also wanted change approach write unittest directly every new unittest written xctest instead quicknimble consequence writing unit test method instead behavioural test much convenient easier converting quicknimble unit test xctest challange

@@ -1,0 +1,1 @@
+normalize identifier api response inconsistent see resource class uid field mapped property consequence accessing field becomes consistent across resource type longer remember call return uid downside deviate vercel api make little bit hard back forth

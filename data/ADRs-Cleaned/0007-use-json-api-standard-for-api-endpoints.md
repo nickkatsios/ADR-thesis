@@ -1,0 +1,1 @@
+json api standard api endpoint adr mention develop api well defined json apis good practice adhere recognised open standard wellmaintained software library serving apis common format well software consumes development time also reduced json api defining api endpoint consequence none

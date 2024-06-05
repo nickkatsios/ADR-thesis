@@ -1,0 +1,1 @@
+search choice deprecated adr per adr memory search unacceptably slow clucy clojure library top lucene consequence clucy take hour index probably acceptable file update twice month given startup time undesirable run memory response time move elasticsearch moving loading index separate process would require amount work

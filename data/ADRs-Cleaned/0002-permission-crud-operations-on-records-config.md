@@ -1,0 +1,1 @@
+permission crud operation record config initially record could made anyone problem record metadata without file attached avoid situation record created without file put denyall permission farerecordsconfigpy denies possibility create update delete kind record consequence way one create record metadata without file attached

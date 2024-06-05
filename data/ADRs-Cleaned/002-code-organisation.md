@@ -1,0 +1,1 @@
+adr code organisation bridge top level bridgeentity everything entity could directly bridge case engine entity case actual implementation entity bottom top schema datomic schema spec spec data data transformation datomic interaction api controller layer client client code consequence

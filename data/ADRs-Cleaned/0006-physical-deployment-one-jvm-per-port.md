@@ -1,0 +1,1 @@
+physical deployment one jvm per port drtv tried normalise port single model frequently request port specific feature structure also jvm per airport consequence reduces downtime deployment allows port specific change different pipeline edi

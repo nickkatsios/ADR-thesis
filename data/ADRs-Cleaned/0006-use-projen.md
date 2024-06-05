@@ -1,0 +1,1 @@
+projen yarn workspace decided adr turned impractical produced many problem going switch projen related going switch npm drop yarn consequence replace occurences yarn npm

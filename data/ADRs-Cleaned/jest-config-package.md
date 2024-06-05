@@ -1,0 +1,1 @@
+jest config package create separate package jest config rationale separate package allows jest config shared package

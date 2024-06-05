@@ -1,0 +1,1 @@
+image stored addition store image explained moveimagestowebrootmd also store image icon meldingenkaart django done without feature flag reason storing django application manager municipality capable changing icon desired without developer image meldingenkaart stored django without feauture flag

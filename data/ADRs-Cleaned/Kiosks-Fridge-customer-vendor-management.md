@@ -1,0 +1,1 @@
+title kiosksfridgecustomervendormanagement component superseded kiosksfridgecustomervendormanagement manage kiosk fridge customer vendor separate component manage kiosk along point sale system fridge customer vendor consequence rather one manager take care kiosk fridge customer vendor individual component might component differents functionality make easier manage

@@ -1,0 +1,1 @@
+starting commit main project looking various possibility writing braincognitive simulation gui pick tornadofx kotlin main simulation framework rationalization lot possibility around place winning one simbrain tornadofx kotlin seemed modern hence robust extendable furthermore reduction amount increase readability code framework provides especially important opensource project

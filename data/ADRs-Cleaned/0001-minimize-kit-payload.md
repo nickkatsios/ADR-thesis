@@ -1,0 +1,1 @@
+deciders vicobarberan try reduce payload get sent device api instead api convert new data type json new payload example httpsgithubcomfablabbcnsmartcitizenkitcommitfdbcccddccbcdeaabdiffffdfbcebbcfabbedefbccdbfr ttz old payload httpsgithubcomfablabbcnsmartcitizenkitblobmasterespsrcsckespcppll json data recordedattz sensor idvalue idvalue idvalue idvalue

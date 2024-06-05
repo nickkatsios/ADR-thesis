@@ -1,0 +1,1 @@
+relational database problem statement relational database required persist application data considered microsoft sql mysql postgresql sqlite outcome chosen microsoft sql inline trade technical stack microsoft sql already widely almost exclusively trade pro con alternative mysql popular postgresql popular free sqlite great small application back

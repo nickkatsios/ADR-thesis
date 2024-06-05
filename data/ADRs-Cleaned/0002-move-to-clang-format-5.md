@@ -1,0 +1,1 @@
+move clangformat current version clangformat aging becoming unavailable move clangformat bleeding edge version visual studio ship clangformat make sense standardize version across project consequence full reformat code base required

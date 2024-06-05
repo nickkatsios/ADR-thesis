@@ -1,0 +1,1 @@
+openjdk oracle jdk requires basic license main alternative openjdk rely openjdk production environment consequence perhaps uncle larry

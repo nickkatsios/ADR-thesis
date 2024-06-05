@@ -1,0 +1,1 @@
+category adr tag analysis title adr pick analysis cli library noted adr codecharta pipe filter architecture defined user interact analysis codecharta analysis set commandline tool picocli picocli small powerful regularly updated work great combination kotlin consequence cli intuitive wellstructured graphical user interface would

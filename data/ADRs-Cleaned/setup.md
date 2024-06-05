@@ -1,0 +1,1 @@
+setupinstallation prerequisite ensure youve installed software outlined prerequisite page database given adr first setup task create database see information api framework next set loopbackio project handle apimidtier see information frontend challenge call frontend since pretty close finishing full stack let create simple react see information

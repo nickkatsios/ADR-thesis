@@ -1,0 +1,1 @@
+allow printing content repository proposed repository behind cache http one might handy see content yaml wihtout fetch content manually worth easy enough inspect repository consequence user manually retrieve repository see content

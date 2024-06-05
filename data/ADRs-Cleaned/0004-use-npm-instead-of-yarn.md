@@ -1,0 +1,1 @@
+npm instead yarn getting security vulnerabilty warning github due transitive dependency npm offer depth setting updating dependency yarn doesnt seem raise question yarn switch npm consequence able fix transitive dependency problem easily think installation marginally slower big deal

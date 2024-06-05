@@ -1,0 +1,1 @@
+donts building healthmodule api response rule regarding usage healthmodule apis input healthmodules anything openchsmodels output healthmodules loose right reason present fix method return array return array everytime example highrisk overweight even high risk detected return highrisk empty array consequence

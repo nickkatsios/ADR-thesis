@@ -1,0 +1,1 @@
+hosting clojure application know security requirement hiding application would rather pay hosting host heroku free paas provider alternative considered microsoft azure also offer free clojure hosting heroku preferred team already logins

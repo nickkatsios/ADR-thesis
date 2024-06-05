@@ -1,0 +1,1 @@
+request validation request validated either api gateway lambda function validating request lambda function seems offer detailed error message api gateway prevents lambda function executed bad response save learning purpose

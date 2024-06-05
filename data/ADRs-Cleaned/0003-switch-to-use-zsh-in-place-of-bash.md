@@ -1,0 +1,1 @@
+switch zsh place bash starting macos catalina zsh default shell zsh place bash consequence difference shell require change way configured may small learning curve whilst getting difference shell zsh widely thought better shell bash productivity gain

@@ -1,0 +1,1 @@
+create castable spell want give variation combat system beyond physical attack allow reason create separate build player character enemy fight give game element combat opposite system based luck alone create spell integrate character combat system progress damage spell aoe single target added healing spell aoe self ally target added

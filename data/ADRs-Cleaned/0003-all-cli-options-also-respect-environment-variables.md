@@ -1,0 +1,1 @@
+cli also respect environment variable one goal stentor integrated system requires flexibility user set commandline particular system easier change environment variable change commandline flag stentor commandline set via corresponding enviroment variable consequence writing new commandline also require adding documenting sourcing new environment variable

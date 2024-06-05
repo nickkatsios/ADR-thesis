@@ -1,0 +1,1 @@
+rawmessagedelivery proposed service originally designed notification smartphone push notification rather message queue configuration tuned case important keep channel easy possible without additional complication rawmessagedelivery sqstosns subscription consequence content message published topic exactly identical come subscribed queue wrapping encoding attached metadata

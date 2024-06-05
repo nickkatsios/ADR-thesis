@@ -1,0 +1,1 @@
+codeanalysis make sure adhere designated code quality best practice code analysis tool specifically credo elixir prettier javascript consequence code style violation cause build failure

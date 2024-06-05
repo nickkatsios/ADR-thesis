@@ -1,0 +1,1 @@
+dns definition host service superseded dns infrastructure current monitoring work icinga able communicate host service stack internal private zone internal service puppetmaster following format servicenamestacknameinternal puppetperftestinginternal monitoringmystackinternal consequence tbc

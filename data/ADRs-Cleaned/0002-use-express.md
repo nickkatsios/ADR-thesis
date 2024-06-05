@@ -1,0 +1,1 @@
+express want build webbased application node express minimal flexible framework set lot basic configuration like routing middleware make easy incoporate gov design system component express basis project consequence wont reinvent wheel get web application running quickly node express common framework moj make easy new developer onboarded project future

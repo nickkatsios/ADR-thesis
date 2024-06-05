@@ -1,0 +1,1 @@
+restrict datatypes allowable log entry greenlog allows data attached log entry either data associated logged event log entry may consumed variety handler make job handler easier greenlog restrict type value usable log data truefalse numeric string time hash string symbol key consequence data must converted one type inclusion log entry

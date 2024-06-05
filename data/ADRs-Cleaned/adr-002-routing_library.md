@@ -1,0 +1,1 @@
+routing building web app one official url query params url searchqsearchterm believe future endpoint added complicated search request bidi parse route alternative considered given simplicity url structure could get away routing compojure however feel reliance macro could harm future development

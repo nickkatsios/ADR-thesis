@@ -1,0 +1,1 @@
+game hosting current version game user friendly requires knowledge acces linux command line create web interface host hunt keep cost low let host github page consequence easier user experience wider player base gui complex build

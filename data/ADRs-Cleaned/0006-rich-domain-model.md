@@ -1,0 +1,1 @@
+rich domain model possible solution related domain model implementation anemic domain model without logic inside rich domain model encapsulated logic rich domain model solution domain model encapsulate internal structure logic

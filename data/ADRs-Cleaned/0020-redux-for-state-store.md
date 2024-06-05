@@ -1,0 +1,1 @@
+redux state store building complex web application brings challenge around manage state redux website provides excellent motivation page discus challenge detail decided adopt redux architecture provide clean separation view action state store consequence foreseen consequence choice

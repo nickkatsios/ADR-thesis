@@ -1,0 +1,1 @@
+semver versioning versioning scheme project semver prevalent versioning scheme nodejs library easy follow rule updating majorminorpatch version number semantic meaning consequence common language anyone project know exactly change new version affect code

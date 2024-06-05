@@ -1,0 +1,1 @@
+typescript proposed runtime error happens pretty often javascript application grows face error would thrown staticallytyped language typescript developing frontends nodejs backends consequence whole team confidence typescript react decrease development speed related category static type checking

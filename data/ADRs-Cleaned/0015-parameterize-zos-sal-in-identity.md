@@ -1,0 +1,1 @@
+parameterize zos sal identity parameterize zos sal identity want switch identity certain point example deploy workload identity make zos sal paramertized specific identity passed default identity consequence zos sal parametrized identity signdeploy workload change usage zos sal usage getidentity

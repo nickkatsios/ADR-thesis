@@ -1,0 +1,1 @@
+rename asset device confusion call generating consuming device asset origin noticed origin user would refer asset device asset decided change terminology refer asset device keep line prevailing terminology industry consequence package assetregistry renamed deviceregistry

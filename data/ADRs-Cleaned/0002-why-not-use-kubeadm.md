@@ -1,0 +1,1 @@
+kubeadm superceded vagrant virtualbox setup kubernetes cluster kubeadm setup kubernetes cluster apiserver etcd controller scheduler setup kubernetes cluster apiserver etcd controller scheduler without kubeadm docker rational handson setting manually tradeoff complicated configuration script contributor nouman memon

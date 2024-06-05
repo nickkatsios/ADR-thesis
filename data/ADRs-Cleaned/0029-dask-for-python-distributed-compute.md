@@ -1,0 +1,1 @@
+dask python distributed compute following meeting met office clear python user seeing great success dask distributed compute environment dask appears could easier spark user already know python numpy decided offer dask addition spark within datalabs platform enables appeal user limited cost consequence maintain two distributed compute capability

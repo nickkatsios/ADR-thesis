@@ -1,0 +1,1 @@
+api description api responsible administering vehicle timetable map service real time vehicle tracking recive information localization source team decide make api wich allows organize timetable receive vehicle localization send information frontend api consequence api lightweight fast provides reusability

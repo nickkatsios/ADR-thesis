@@ -1,0 +1,1 @@
+custom view model problem statement common model custom view cause tight coupling block moving library custom view creation facing concern tight coupling decided create model custom view domain neglected common model achieve loose coupling app component

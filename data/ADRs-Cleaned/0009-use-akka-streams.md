@@ -1,0 +1,1 @@
+akka stream bulk application processing pipeline data feed way process stream information considered apachespark didnt think enough data yet justify overhead spark installation considered javascalarx quite reactive also due processing overhead crunch backpressure get akka stream seemed like win akka stream consequence get typed parallelisable processing thing consuming

@@ -1,0 +1,1 @@
+prettier config package create separate package prettier config rationale separate package allows prettier config shared package

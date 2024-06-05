@@ -1,0 +1,1 @@
+amp file php polling php poll last resort tracking modification initially thought amp file abstraction would provide better nonblocking solution performance significantly worst phps native blocking file function case second scan file second php native file function still yield control event loop directory traversed consequence might possibly noticeable blocking

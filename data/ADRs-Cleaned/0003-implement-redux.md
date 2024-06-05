@@ -1,0 +1,1 @@
+implement redux state handling react becomes complicated many state implement redux handle state consequence handling state easier

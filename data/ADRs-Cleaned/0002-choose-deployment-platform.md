@@ -1,0 +1,1 @@
+choose deployment platform deployment done cdn static page github page netlify choose netlify custom domain good support hugo consequence big consequence migration easy custom domain work usually solution netlify nice easy

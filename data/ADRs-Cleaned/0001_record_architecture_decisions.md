@@ -1,0 +1,1 @@
+record architecture start public project architecture seen weird record architecture document docadl folder documentation architecture log consequence motivation behind previous visible everyone present future nobody left scratching head understand thinking time change old clear change project see

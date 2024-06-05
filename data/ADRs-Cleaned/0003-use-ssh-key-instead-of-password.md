@@ -1,0 +1,1 @@
+ssh key ssh config securecrtzoc local terminal iterm ssh key consequence key ref ssh password key httpslwnnetarticles ssh key authentication better password authentication httpssuperusercomquestionswhyissshkeyauthenticationbetterthanpasswordauthentication ssh key secure password httpssecuritystackexchangecomquestionswhyisusingansshkeymoresecurethanusingpasswords

@@ -1,0 +1,1 @@
+custom activation wallet threebot deployers activation service fails lot lead starting online threebot without wallet add activate bot wallet via custom activation wallet deployer case threefold service activation fails pas secret secret env consequence start threebot wallet failure attemps unless custom activation wallet doesnt fund

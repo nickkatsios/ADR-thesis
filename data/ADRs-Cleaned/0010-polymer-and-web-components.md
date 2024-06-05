@@ -1,0 +1,1 @@
+polymer web component polymerjs implementation readonly httplocalhosthomehtmlusepolymer lithtml tepmplating support data binding cant understand litelement want create custom web component tried briefly could get data feed leave one read show bookmark list least consequence becomes easier difficult risk introduced change mitigated

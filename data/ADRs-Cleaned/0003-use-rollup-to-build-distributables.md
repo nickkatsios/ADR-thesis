@@ -1,0 +1,1 @@
+rollup build distributables want able distribute library ingested typescript plain javascript commonjs module application rollup popular javascript bundler support typescript simple configuration build distributables rollupjs consequence rollupjs build type declaration commonjs module code single simple command simple config make easier distribute code

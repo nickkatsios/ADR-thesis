@@ -1,0 +1,1 @@
+flask superceded replace flask django choose webserver flask server simple pretty much graphql endpoint graphiql consequence flask battery included rely thirdparty libs want extend server later

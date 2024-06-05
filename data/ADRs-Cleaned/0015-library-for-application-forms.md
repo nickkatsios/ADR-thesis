@@ -1,0 +1,1 @@
+library application form want common library managing html form within service two library investigated zend form symfony form zend form consequence zend form required boilerplate code end result expressive within handle also simplified testing better compatibility zend csrf middleware dont get benefit view helper available via symfony form

@@ -1,0 +1,1 @@
+wiki submodule new project guideline prescribe usage wiki documentation disconnect documentation repository checkout may undesirable gitlab wikis essence git repository hold markdown link project gitlab wiki submodule doc folder consequence documentation duplication may complicated sync code public

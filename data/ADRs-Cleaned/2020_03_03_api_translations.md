@@ -1,0 +1,1 @@
+api translation power version related description problem solve provide unified way manage translation translatable entity api possible solution translation collection could embedded object within productoptionproductoptionvalue resource provided iris reasoning translation always embedded collection object theyre irrelevant outside main object provide value alone

@@ -1,0 +1,1 @@
+esignature make support esignatures work contract signature pad implement html canvasbased esignatures consequence add library signaturepad npm dependency probably create wrapper frontend framework

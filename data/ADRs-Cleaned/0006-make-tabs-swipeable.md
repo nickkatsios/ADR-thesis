@@ -1,0 +1,1 @@
+make tab swipeable navigate tab user swipe left right click tab nativebases component tab previously reactnativetabview since crossplatform component work perfectly android consequence render inactive tab

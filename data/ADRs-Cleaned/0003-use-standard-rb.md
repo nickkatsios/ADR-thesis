@@ -1,0 +1,1 @@
+standard ruby linting make sure code written standard style clarity consistency across project avoid back forth developer code style standardrb run standardrb rake task lint code part test suite consequence code must written match standardrb style otherwise test suite fail error automatically fixed running rake standardfix

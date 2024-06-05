@@ -1,0 +1,1 @@
+fluid interface supercedes problem statement client interface considered single class whose public method form api set class provide fluent api redirects component outcome chosen implement fluent api early library showed easier understand provided mean expand evolve functionality

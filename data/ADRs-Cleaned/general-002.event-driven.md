@@ -1,0 +1,1 @@
+application event primary citizen data modification detail primary update data done event adding user done publishing useradded event event source truth transmutation readable state done listener record state database either local server reason multiple adequacy mobile first synchronization might complex dated event source truth make thing much much simpler traceability

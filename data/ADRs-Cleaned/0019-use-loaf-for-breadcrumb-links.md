@@ -1,0 +1,1 @@
+loaf breadcrumb link necessary breadcrumb navigation supported configured consistent way across application recommended solution loaf library already several dfe repository goto solution breadcrumb management httpsgithubcomdfedigitalacademytransfersfrontend httpsgithubcomdfedigitalgetintoteachingapp httpsgithubcomdfedigitalnpdfindandexplore consequence risk introduced

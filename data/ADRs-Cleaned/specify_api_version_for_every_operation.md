@@ -1,0 +1,1 @@
+specify api version every operation since api version given resource unpredictable way specify api version request request basis also make sure remains backwards forward compatible case version updated library operation default api version latest version allow overridden passing apiversion argument consequence specifying apiversion argument verbose

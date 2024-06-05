@@ -1,0 +1,1 @@
+session manager shell access instance supercedes key pair utility providing shell access node aws time consuming set secure manner session manager establish shell connection client instance consequence session manager provides connection managed via iam police connection auditing session history also removed establishing ssh key rotation policy

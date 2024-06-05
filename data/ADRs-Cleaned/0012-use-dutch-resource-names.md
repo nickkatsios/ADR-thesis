@@ -1,0 +1,1 @@
+dutch resource name exposing api endpoint exposing exposing resource field name decide language cater majority world english dutch creating resource flemish government dutch term external requirement dictated organisation consequence possibly provide translation layer ever want cater international audience

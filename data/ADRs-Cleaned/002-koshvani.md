@@ -1,0 +1,1 @@
+section analyse scoping koshvani deprecated superseded adr problem statement section koshvani platfrom considered scope scoping analysing data expenditure receipt outcome explore section identify subsection data extracted analysed

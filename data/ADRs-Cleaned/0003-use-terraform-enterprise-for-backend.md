@@ -1,0 +1,1 @@
+terraform enterprise backend terraform writes plaintext state backend ability collaborate workspace severely handicapped many group aws andor storage dynamodb locking state file avoid clobbering terraform cloud small team allow little leeway one thing manage terraform cloud team consequence trusting hashicorp right

@@ -1,0 +1,1 @@
+fargate host type aws bare metal rig give choice hosting fargate compute twig riglet fargate primary driver reference fargate instead process updating twig riglet consequence twig isnt ideal candidate fargate hosting smallest fargate memory choice enough twig nginx twigapi nodejs

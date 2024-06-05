@@ -1,0 +1,1 @@
+expose command line interface want maximise usability adrviewer whilst maintaining flexibility future output format live webserver entry point project commandline utility called adrviewer python click library provide commandline documentation consequence click added dependency improvement consider user experience commandline interface

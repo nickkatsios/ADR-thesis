@@ -1,0 +1,1 @@
+server side rendering ssr web born html lately fallback often default make page slow add unnecessary load web excludes user ssr least make site easier load client deliver speed default ssr consequence see might work

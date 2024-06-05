@@ -1,0 +1,1 @@
+api provider issue order obtain updated list series market well current season episode would like consume external api trakt api httpstraktdocsapiaryioreferenceseasonssummary

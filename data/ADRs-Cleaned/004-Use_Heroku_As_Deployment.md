@@ -1,0 +1,1 @@
+title heroku deployment environment desirable keep project online testing purpose easy environment cost decided heroku easy environment cli tool make easy deploy command free plan also great integration lot platform recognizes spring boot box consequence fast deployment process smooth integration spring boot cost minute idleness instance turned start little lazy firts access

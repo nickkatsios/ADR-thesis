@@ -1,0 +1,1 @@
+useavatestrunner proposed rejected lab misreporting code coverage stats set work typescript issue lab community quite small meaning plugandplay tool thought ava review avas performance issue doesnt sound great jest seems like way typescript support large community familiar consequence reconfigure update test jest

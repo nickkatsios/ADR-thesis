@@ -1,0 +1,1 @@
+detach expo size android app even screen simple tab list size expo app approximately download android expo includes bunch apis regardless whether expo make customizable future customize detach expo consequence

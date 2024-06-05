@@ -1,0 +1,1 @@
+design npm package component background decide whether organize repository export single npm package package component finding react compliation treeshaking removing unused import single package simpler setup allowing quicker development library grows reevaluated single import large preference export single package made

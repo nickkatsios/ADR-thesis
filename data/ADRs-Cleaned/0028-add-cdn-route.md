@@ -1,0 +1,1 @@
+add cdn route apps hosted custom domain behind cloudfront create cdnroute gpaas create cloudfront endpoint custom domain also generate certificate consequence may configure cdnroute forward particular header cooky configured forwarded application

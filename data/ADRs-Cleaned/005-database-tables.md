@@ -1,0 +1,1 @@
+database table sun sep cest milestone project database structure chosen adopted three table database point table book isbn varchar title varchar year char category varchar subcategory varchar table author bigserial name varchar table bookauthor bookisbn varchar ref bookisbn authorid bigint ref authorid consequence book might multiple author author might written multiple book

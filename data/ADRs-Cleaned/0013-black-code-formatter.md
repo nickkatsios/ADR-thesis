@@ -1,0 +1,1 @@
+black code formatter would like simplify code review unify code style black code formatter httpsgithubcomambvblack consequence thinking formatting functionality

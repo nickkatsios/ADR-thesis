@@ -1,0 +1,1 @@
+dont chain delegate deciders team problem chain delegate without change every scope generates many repeated code dont chain delegate make change every scope consequence much clean code

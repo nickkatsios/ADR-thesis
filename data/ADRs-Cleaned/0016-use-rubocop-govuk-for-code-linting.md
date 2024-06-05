@@ -1,0 +1,1 @@
+rubocopgovuk code linting supercedes standard ruby linting govuk project maintain consistent code formatting change standardrb wrapper around rubocop govuk maintained version consequence code consistency continue maintained inline government project linting change tackled gradually rubocop autogenconfig noautogentimestamp

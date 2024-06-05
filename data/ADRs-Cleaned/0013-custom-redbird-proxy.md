@@ -1,0 +1,1 @@
+custom redbird proxy superceded traefik reverse proxy select proxy server proxy request service running private kubernetes cluster decided redbird reverse proxy selected written nodejs expect application written allow extend support authentication logging edge concern consequence package proxy docker container
