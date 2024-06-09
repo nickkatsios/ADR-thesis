@@ -1,0 +1,1 @@
+adr architectural record changelog initial version want record architectural transparent way establish process contributor propose new direction architectural record document architectural record stored docsadr repository lightweight process proposing discussing deciding adrs format process documented indexmd

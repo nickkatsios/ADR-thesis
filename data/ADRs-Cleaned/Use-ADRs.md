@@ -1,0 +1,1 @@
+architecture record record architectural made project architecture recordsadrs described michael article background reading found consequence architecture recorded markdown file template add link directory readme file enable everyone read repo view challenge normal process

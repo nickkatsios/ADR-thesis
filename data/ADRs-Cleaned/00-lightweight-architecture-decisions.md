@@ -1,0 +1,1 @@
+adopt lightweight architectural design format project growing size maturity documenting made creation strongly beneficial convention lightweight architectural set think relevance set form architectural document read forming basis document architectural project create architectural record filename xxdecisiontitlemd monotonically increasing number described linked document proposed

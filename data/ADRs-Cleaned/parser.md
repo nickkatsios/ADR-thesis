@@ -1,1 +1,1 @@
-select parser framework criterion simple easy well documented candidate sly various parser listed httpstomassettimeparsinginpython commentary ive already sly wanted look around see better alternative turn quick simple solution great doc nothing yet beat sly approved sly author ntoll
+select parser framework criterion simple easy well documented candidate sly various parser listed httpstomassettimeparsinginpython commentary ive already sly wanted look around see better turn quick simple solution great doc nothing yet beat sly approved sly author ntoll

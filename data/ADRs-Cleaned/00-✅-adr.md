@@ -1,0 +1,1 @@
+record architectural record busy document new project write adrs major technical naming monotonically increasing counter rejected adrs counter adrs counter consequence

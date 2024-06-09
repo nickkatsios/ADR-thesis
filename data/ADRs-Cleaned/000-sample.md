@@ -1,0 +1,1 @@
+title adr writing manual remove httpswwwcognitectcomblogdocumentingarchitecturedecisions consequence

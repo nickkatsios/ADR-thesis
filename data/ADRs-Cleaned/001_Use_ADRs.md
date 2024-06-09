@@ -1,0 +1,1 @@
+architectural design record adr record architectural made project architecture record described michael article keep adrs markdown file starting threedigit number counting consequence see michael article linked

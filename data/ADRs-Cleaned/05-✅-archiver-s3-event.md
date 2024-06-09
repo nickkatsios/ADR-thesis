@@ -1,1 +1,1 @@
-archiver archiver lambda able respond issue published event tool archiver react file created event front tool alternative archiver could consume queue form called directly front tool consequence whenever file added publication directorybucket archiver ran
+archiver archiver lambda able respond issue published event tool archiver react file created event front tool archiver could consume queue form called directly front tool consequence whenever file added publication directorybucket archiver ran

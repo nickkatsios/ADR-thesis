@@ -1,1 +1,1 @@
-config set port config value application know deployment environment yet environment variable configure app rather file alternative considered yaml file would allow structured config
+config set port config value application know deployment environment yet environment variable configure app rather file considered yaml file would allow structured config

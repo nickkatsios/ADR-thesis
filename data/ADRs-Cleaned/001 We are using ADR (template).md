@@ -1,0 +1,1 @@
+record architecture record architectural made project architecture record described michael consequence see michael article linked lightweight adr toolset see nat pryces adrtools positive negative risk bonus feature

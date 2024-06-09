@@ -7,6 +7,8 @@ import random
 import string
 
 def clone_repository(repo_url, clone_dir):
+    # need to clone the whole repo beacuse adrs may have been 
+    # updated/added from the time the metadata was assembled
     if os.path.exists(clone_dir):
         shutil.rmtree(clone_dir)
     git.Repo.clone_from(repo_url, clone_dir)

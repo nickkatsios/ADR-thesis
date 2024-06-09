@@ -1,0 +1,1 @@
+record architecture proposed updated proposed recording architectural made project help future developer understand reviewing architecture record adrs developer see considered made detail architecture record described michael article httpthinkrelevancecomblogdocumentingarchitecturedecisions tbd consequence see michael article linked

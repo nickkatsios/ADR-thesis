@@ -1,1 +1,1 @@
-vellum fails whilist request outstanding vellum node fails whilst request sprout dime outstanding typically result failure request sprout dime node processing return code indicating retried sprout dime node sends request retried alternative vellum node instead consequence request succeeds fails
+vellum fails whilist request outstanding vellum node fails whilst request sprout dime outstanding typically result failure request sprout dime node processing return code indicating retried sprout dime node sends request retried vellum node instead consequence request succeeds fails

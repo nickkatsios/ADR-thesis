@@ -1,0 +1,1 @@
+katalog decyzji architektonicznych prjtchesbpeidmbpm tytul decyzje projektowe decyzje techniczne decyzje projektowe lpobszardatanazwa decyzje techniczne lpobszardatanazwa tchresuse modular monolith tchresuse port adapter architecture tchresuse relational database aggregate data repository tchresuse spring repository
