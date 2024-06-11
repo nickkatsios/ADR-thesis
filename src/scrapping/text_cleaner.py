@@ -51,5 +51,16 @@ def read_and_clean_adrs(adr_directory, save):
                         preprocessed_file.write(preprocessed_text)
     return cleaned_texts
 
+def read_adrs(adr_directory):
+    texts = []
+    # Read, preprocess, and encode each ADR file
+    for file_name in os.listdir(adr_directory):
+        if file_name.endswith('.md'):
+            file_path = os.path.join(adr_directory, file_name)
+            with open(file_path, 'r', encoding='utf-8') as file:
+                text = file.read()
+                texts.append(text)
+    return texts
+
 
             

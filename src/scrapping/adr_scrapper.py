@@ -5,6 +5,7 @@ import json
 import concurrent.futures
 import random
 import string
+import subprocess
 
 def clone_repository(repo_url, clone_dir):
     # need to clone the whole repo beacuse adrs may have been 
@@ -13,6 +14,18 @@ def clone_repository(repo_url, clone_dir):
         shutil.rmtree(clone_dir)
     git.Repo.clone_from(repo_url, clone_dir)
 
+def repo_exists(url):
+    try:
+        # Run the git ls-remote command
+        result = subprocess.run(['git', 'ls-remote', url], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+        # Check if the response contains "Repository not found"
+        if 'Repository not found' in result.stderr:
+            return False
+        return True
+    except subprocess.CalledProcessError as e:
+        print(f"An error occurred: {e}")
+        return False
+    
 def get_random_string(length):
     return ''.join(random.choices(string.ascii_uppercase + string.digits, k=length))
 
@@ -33,7 +46,7 @@ def download_files_from_directory(local_repo_path, target_directory):
             with open(file_path, 'rb') as file:
                 content = file.read()
                 # all adrs will be stored in a dump in the data folder
-                dest_folder = "../../data/ADRs-Updated"
+                dest_folder = "../../data/ADRs-Updated-new"
                 dest_file_path = os.path.join(dest_folder, file_name)
                 with open(dest_file_path, 'wb') as dest_file:
                     dest_file.write(content)
@@ -53,7 +66,7 @@ def process_metadata_file(metadata_file_path):
 def process_all_metadata_files(metadata_directory):
     metadata_files = [os.path.join(metadata_directory, f) for f in os.listdir(metadata_directory) if f.endswith('.json')]
     file_count = len(metadata_files)
-
+    missing_repos = 0
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
         futures = {executor.submit(process_metadata_file, file_path): file_path for file_path in metadata_files}
         for i, future in enumerate(concurrent.futures.as_completed(futures), 1):
@@ -63,6 +76,10 @@ def process_all_metadata_files(metadata_directory):
                 print(f"Processing {file_path} --> {i} of {file_count} completed successfully.")
             except Exception as e:
                 print(f"Error processing {file_path}: {e}")
+                # all errors came from missing repositories
+                missing_repos += 1
+    print("--------------------------------------------------")
+    print(f"Processed {file_count} metadata files. {missing_repos} repositories were missing.")
 
 if __name__ == "__main__":
     print("Starting ADR Scraper...")
