@@ -38,7 +38,6 @@ def clean_text2(markdown_content):
 def read_and_clean_adrs(adr_directory, save):
     cleaned_texts = []
     # Read, preprocess, and encode each ADR file
-    total_files = len(os.listdir(adr_directory))
     for file_name in os.listdir(adr_directory):
         if file_name.endswith('.md'):
             file_path = os.path.join(adr_directory, file_name)

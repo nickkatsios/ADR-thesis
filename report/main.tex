@@ -2,13 +2,11 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage[a4paper,width=150mm,top=25mm,bottom=25mm]{geometry}
-\usepackage{lipsum}
+\usepackage{array}
+\usepackage{longtable}
 \usepackage{fancyhdr}
-
-% Plain Title to be used later
-% \title{An Empirical Analysis of Architectural Design Records}
-% \author{Nikolaos Katsios}
-% \date{Athens University of Economics and Business \\ \today}
+\usepackage{url}
+\usepackage{svg}
 
 \begin{document}
 
@@ -26,6 +24,7 @@
 \listoffigures
 \newpage
 
+% TODO: Include a sentence or 2 in the start of each chapter describing what it is about.
 \include{ch1-Introduction}
 
 \include{ch2-Arch-Knowledge-And-Decisions}
@@ -41,7 +40,6 @@
 \include{ch7-Conclusions}
 
 \bibliographystyle{plain}
-\bibliography{references/ref-Intro}
+\bibliography{references/refs}
 
 \end{document}
-
