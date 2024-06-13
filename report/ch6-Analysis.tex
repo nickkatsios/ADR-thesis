@@ -1,15 +1,148 @@
 \chapter{ADR Dataset Analysis}
     \section{Analysis Methods}
-        Innovative analysis methods including machine learning.
+        For the analysis of the ADRs, and to answer the research questions, several topic modelling techniques and algorithms were used as mentioned in chapter 4. This section presents the two approaches that led to the final results.
+        \subsection{TF-IDF and LDA} 
+        A fist approach employed Term Frequency-Inverse Document Frequency (TF-IDF) for vectorization of words and Latent Dirichlet Allocation (LDA) to perform the topic modelling. TF-IDF is a statistical measure used to evaluate the importance of a word in a document relative to a collection of documents. By applying TF-IDF, each document is converted into a numerical vector, where each element of the vector represents the TF-IDF score of a term, which in extension is essentially the product of TF, the frequency of a a term appearing in a document and IDF, a metric of importance of the term across all documents. After documents have been vectorized, we can apply LDA which is is a generative probabilistic model that assumes documents are mixtures of topics and topics are mixtures of words\cite{LDA_paper}. LDA assumes each document is generated from a fixed number of topics, and each topic is a distribution over a certain fixed vocabulary. The result of this method is a distribution of topics for each ADR, indicating the prevalence of each topic within itself. TF-IDF is used since LDA expects the input in the form of integers and TF-IDF accomplishes just that, along with encoding information about words in the documents. hyper parameter tuning using grid search was performed to obtain the best parameters, namely max features of TF-IDF, the optimal number of LDA components, and lda learning decay. This resulted in four broad topics discovered. The topics were projected in a 2 dimentional space and visualized in \ref{fig:LDA_results}. All algorithms were executed using Python and visualized using the pyLDAvis library. When interpreting topics, the top ten words by frequency in each cluster were used.
+
+        \begin{enumerate}
+            \item 34.98 percent of the documents were represented with the following most common words: data, api, user event, service, type, message, request, object, client. This topic is broad and could potentially revolve around decisions about how APIs manage, process, and integrate data. This is topic (a) in figure \ref{fig:LDA_results}.
+            
+            \item 32.62 percent of the documents were represented with the following most common words: test, component, code, project, library, file, framework, version, package, change. This topic seems to revolves around decisions on the processes, tools, and practices involved in software testing and development. This is topic (b) in figure \ref{fig:LDA_results}.
+    
+            \item 25.51 percent of the documents were represented with the following most common words: aws, service, environment, docker, cluster, container, image, kubernetes, cloud, deployment. Based on these results this topic is more clear and revolves around decisions about cloud infrastructure containers and container orchestration. This is topic (c) in figure \ref{fig:LDA_results}.
+    
+            \item 6.89 percent of the documents were represented with the following most common words: record database search architecture adrs architectural markdown elasticsearch index document adr article. This topic is more intertwined and seems to contain ADRs avout the use of ADRs and database decisions. This is topic (d) in figure \ref{fig:LDA_results}.
+        \end{enumerate}
+
+        \begin{figure}[hbt!]
+            \begin{subfigure}{.475\linewidth}
+              \includegraphics[width=\linewidth]{figures/LDA-results/topic1.png}
+              \caption{LDA topic 1}
+              \label{MLEDdet}
+            \end{subfigure}\hfill % <-- "\hfill"
+            \begin{subfigure}{.475\linewidth}
+              \includegraphics[width=\linewidth]{figures/LDA-results/topic2.png}
+              \caption{LDA topic 2}
+              \label{energydetPSK}
+            \end{subfigure}
+            \medskip % create some *vertical* separation between the graphs
+            \begin{subfigure}{.475\linewidth}
+              \includegraphics[width=\linewidth]{figures/LDA-results/topic3.png}
+              \caption{LDA topic 3}
+              \label{velcomp}
+            \end{subfigure}\hfill % <-- "\hfill"
+            \begin{subfigure}{.475\linewidth}
+              \includegraphics[width=\linewidth]{figures/LDA-results/topic4.png}
+              \caption{LDA topic 4}
+              \label{estcomp}
+            \end{subfigure}
+            \caption{LDA topic results with representative words for each topic}
+            \label{fig:LDA_results}
+        \end{figure}
+
+        LDA served as the base for some further exploration and optimization of employed techniques. While the initial topics generated were not entirely clear, they highlighted the necessity for finer categorization into more specific topics that LDA alone could not effectively capture, even after tuning with many parameter combinations. This was evident as attempting to increase the number of topics resulted in significant noise and incoherence. To address this, other models were introduced and applied, presented in the following subsection.
+
+    \subsection{BERTopic}
+        The second approach utlilized the Python library BERTopic \cite{bertTopic} to analyze the contents of the ADRs. BERTopic uses transformer-based language models and a class-based TF-IDF variation to generate coherent topic representations. The whole procedure and the algorithms used for the final analysis can be broken down to the steps below:
+
+        \begin{enumerate}
+            \item Document embeddings are generated using pre-trained models to capture semantic similarities, ensuring that documents with similar topics are close in vector space. In order to produce rich embeddings, the "all-mpnet-base-v2" transformer model \footnote{https://huggingface.co/sentence-transformers/all-mpnet-base-v2} from Hugging-Face was used for its support of longer documents up to sequences of 512 tokens and due to the fact that it was trained on datasets related to software engineering such as CodeSearchNet\footnote{https://huggingface.co/datasets/code-search-net/code_search_net}, that contains over 2 million (comment, code) pairs and StackExchange questions.
+            
+            \item These embeddings are then reduced in dimensionality to make the clustering process more efficient. For this, the UMAP method was used as it "keeps some of a dataset's local and global structure"\footnote{https://maartengr.github.io/BERTopic/algorithm/algorithm.html\#2-dimensionality-reduction} which is important to keep as it contains the information necessary to create clusters of semantically similar documents. This technique introduces randomness into the procedure so a set seed was used to make results reproducible.
+
+            \item Clustering is then performed with the reduced embeddings to separate the documents. For this, HDBSCAN was used. This technique was chosen as it can handle varying densities and can also identify outliers, that do not get assigned to a particular topic. Information of this kind is useful for RQ3. The minimum cluster size hyperparameter, which is the main determinant for the number of  topics the model identifies, was set to 40 or about one percent of total ADRs, as smaller numbers produced very distributed niche topics, that related to specific technologies or tools without providing much information about the context or architecture. A larger minimum cluster size on the other hand, produced incoherent clusters without clear separation.
+
+            \item A bag-of-words representation is then created using all documents in the clusters by counting how often each word appears in each collection. This is important since popular words at the cluster level are needed for the analysis. 
+
+            \item Finally, from the generated bag-of-words representation, TF-IDF is applied again, at a cluster level highlighting important words within a cluster and producing a label. Since we now have a set of representative words for each cluster along with the associated documents a fine-tuning technique was used using OpenAI's model GPT-3.5. Specifically, using a custom prompt, the main set of words for each cluster along with the four documents closest to the center of the cluster were passed as input to the LLM, prompting it to generate characteristic labels for this cluster using natural language. The prompt also contained context of the analysis, stating that the document collection consisted of ADRs, which are part of software engineering.
+            
+        \end{enumerate}
+        
+        
     \section{Results and answers to questions}
-        Comparative analysis of ADR use with project metrics.
-        \subsection{Answer to Q1...}
-        - see if trends from previous study have continued --> Revisit prev repos and see if they continued the use of adrs ---> update graphs from prev research
-        - A machine learning approach? --> embeddings + clustering + use gpt to extract some stuff depending on questions + sentiment analysis? 
-        -  ADR in comparison to repo code complexity code size, stars, size of project, contributors, how active it is (last repo commit)
-        - How often do projects make architectural decisions --> interval between file creation --> see correlation with size of the project in terms of lines of code
-        - What topic (tags) repos that use adrs are related to (eg machine learning, developer tooling etc) 
-        - how many adrs exist in separate documentation repositories and how many are stored alongside code
-        - construct dependency graph from ADRs in the same project that have links to other past ADRs. --> see dependencies between decisions --> visualize on gephi and maybe see keywords and present a case study
-        - how many repos are follwoing naming conventions, structure conventions etc    
-        - how many adrs came from adr-tools github cli tool 
+        The first form of the analysis' results are presented in figure \ref{fig:bertopic_datamap_original}.
+
+        \begin{figure}[h]
+            \centering
+            \includegraphics[scale=0.5]{figures/BerTopic_Original/datamap_original.png}
+            \caption{Datamap of documents from BerTopic analysis}
+            \label{fig:bertopic_datamap_original}
+        \end{figure}
+        
+        In the graph, documents' embeddings are projected in a two dimensional space with each data point representing one ADR. Clusters of documents are highlighted in different colors and their label is the result of the LLM representation model. 21 topics were identified based on the specified parameters. Around 15 of them are formed in tight clusters with clear semantic separation from the others. Those are mostly located around the edges of the graph. However, in the center of the graph, results are ambiguous and clusters are sparse. It is also important to note that 2575 ADRs, highlighted in grey in the center of the datamap, were not able to be assigned to a specific topic. Taking a closer look at the documents themselves by zooming in figure \ref{fig:docs_original}, the center also appears sparse with many documents that have not been classified. 
+        
+        \begin{figure}[h]
+            \centering
+            \includegraphics[scale=0.5]{figures/BerTopic_Original/docs_original.jpeg}
+            \caption{Document embedding representation from BerTopic analysis}
+            \label{fig:docs_original}
+        \end{figure}
+        
+        However, the model seems to have captured semantic similarities in ADRs that serve a clear purpose, especially in certain areas like infrastructure management as presented in in figure \ref{fig:infra_docs}.
+
+        \begin{figure}[h]
+            \centering
+            \includegraphics[scale=0.5]{figures/BerTopic_Original/zoomed_docs_infra.jpeg}
+            \caption{ADRs related to cloud and infrastructure are located  closer in the embedding space}
+            \label{fig:infra_docs}
+        \end{figure}
+        
+        Examining the topics from a different perspective, a similarity matrix can be created to determine how clearly the topics have been separated by the model. This can also provide insights into the quality of the labels derived from the LLM, as conceptually similar topics should have a high similarity score and vise versa. The results are presented in figure \ref{fig:similarity_matrix_orginal}. 
+        
+        \begin{figure}[H]
+            \centering
+            \includegraphics[scale=0.5]{figures/BerTopic_Original/heatmap_original.png}
+            \caption{ADR topic similarity matrix}
+            \label{fig:similarity_matrix_orginal}
+        \end{figure}
+        
+        Following the previous patterns, some topics appear to be clearly separated and others intertwined. For example, decisions about database transaction management and data schema evolution have a high similarity score of 0.7, whereas architectural decisions about containerization and code style formats present a lower score of 0.28. An observation can be made, from the color distribution and scale in the matrix, that many topic pairs, including irrelevant ones, have relatively high similarity, with the lowest being close to 0.2. The lowest score is related to code styling formats topic and the secure HTTP header implementation document cluster while the highest, approaching 0.77 is compares dockerized application architectural decisions with decisions related to kubernetes cluster management. The high correlation, may be attributed to the similarity of the general theme of ADRs, with it being software architecture.
+
+        To enhance the clarity of the results and create larger, more information-rich clusters, outlier reduction was applied to the topics, ensuring that only semantically similar documents were assigned to each cluster following the initial analysis. By utilizing the pre-calculated probabilities of an unlabeled document's likelihood of belonging to a specific cluster, the number of outliers was reduced to 704. The similarity threshold was set at 10 percent, meaning outlier ADRs were included in the nearest topic cluster as long as they shared at least 10 percent similarity. This low similarity threshold was chosen to maximize the number of documents assigned to a topic while isolating true outliers for further examination . The updated topic and document graphs can be seen in figures \ref{fig:similarity_matrix_reduced} and \ref{fig:docs_reduced}. 
+        
+        \begin{figure}[h]
+            \centering
+            \includegraphics[scale=0.4]{figures/BerTopic_Reduced/datamap_reduced_outliers.png}
+            \caption{Datamap of documents after outlier reduction}
+            \label{fig:similarity_matrix_reduced}
+        \end{figure}
+        
+        Topics now cover larger areas in the embedding space and there is more topic coverage in the certer parts of the axes. Topic clusters have been extended to include ADRs with more distance, modifying their initial state. From a visual perspective, clusters do not appear overly altered although outliers have been reduced by 72 percent which indicates promising results. The remaining outliers are also more apparent, indicated in grey data points and will be used for later analysis to determine the reason for their low similarity.
+
+        \begin{figure}[H]
+            \centering
+            \includegraphics[scale=0.4]{figures/BerTopic_Reduced/docs_reduced_outliers.jpeg}
+            \caption{Document embedding representation after outlier reduction}
+            \label{fig:docs_reduced}
+        \end{figure}
+
+        In regards to topic similarity, the newly introduced documents, increased cluster diversity, indicated by the lowered similarity scores across all pairs of topics in figure \ref{fig:similarity_matrix_reduced}. Semantically similar pairs also retained their higher score while irrelevant pair scores were reduced significantly, with the minimum being 0.02 between testing strategy decisions and library code component management,  indicating clearer topic separation. 
+
+        \begin{figure}[H]
+            \centering
+            \includegraphics[scale=0.4]{figures/BerTopic_Reduced/similarity_matrix_reduced_outliers.png}
+            \caption{ADR topic similarity matrix with reduced outliers}
+            \label{fig:similarity_matrix_reduced}
+        \end{figure}
+
+        All research questions were answered using the results after the outlier reduction due to improved clarity. RQ3 also considered only the 704 final outliers as the filtering ensured their high degree of dissimilarity.    
+        
+        \subsection{RQ1: What are the most frequently discussed software architecture topics in ADRs?}
+
+        To determine which topics are more prevalent in our dataset, the total number of ADRs per topic were counted and sorted. Then, for each topic, its document count was expressed as a percentage of total ADRs in the data. The results are presented in the bar chart in figure \ref{fig:docs_per_topic_percentage}. We will take a look at some notable ones. At a first glance, topics seem to be evenly distributed. The most frequent topic by a large margin, totaling 14.34 percent of all documents is represented by the title "Front-end Component Architecture", its most frequent keywords are 'react', 'component', 'typescript', 'npm', 'framework', 'frontend', 'dependency', 'design', 'development', 'angular'. This is the large orange cluster in figure \ref{fig:docs_reduced} that contains 770 ADRs. The second most frequent topic is labeled "Data transformation proposal" and its keywords are 'database', 'schema', 'sql', 'metadata', 'implementation', 'data', 'information', 'structure', 'migration', 'json' and seems to describe data related decisions such as storage and database structure. Other interesting topics include the topic labeled "User Authentication Architecture" that brings up security related topics at a 4,61 percent, described by keywords as 'access control', 'authorization','oauth', 'authentication','openid', 'access token','security' and the topic named 'Cloud Infrastructure Management' with 'kubernetes', at a 5.4 percent with 'cloud platform', 'cluster','elasticsearch', 'docker','pod','aws', as dominan words. An ADR topic about architectural decisions and ADR themselves seems to emerge as the 5th most frequent topic containing 5.14 percent of total documents. From its keywords, 'architectural record', 'documentation', 'changelog', 'record architecture', 'document', 'structure' it seems to also revolve around documentation and probably represents some of the first ADRs in each repository that state the need for ADRs and their usage moving forward. From the file cleaning process, at least 35 of those ADRs were identified. Lastly, the least frequent topics are related to email monitoring and notifications and code formatting conventions as indicated by their titles 'Code Formatting Decision Strategy' and 'Email Delivery Architecture' at percentages of 0.8 and 0.93 respectively. 
+
+        \begin{figure}[H]
+            \centering
+            \includegraphics[scale=0.4]{figures/percentage_topics.png}
+            \caption{Documents per topic as a percentage of total documents}
+            \label{fig:docs_per_topic_percentage}
+        \end{figure}
+
+        % todo: include tree sort 
+
+        \subsection{RQ2: How many topics from the general software architecture space are present in the ADRs? How many of them are missing?}
+
+        \subsection{RQ3: Are there any outlier topics in software architecture? What are they about and how can they be sorted?}
+        
+    \section{Potential Biases in Interpretation}
+    Topic modelling is subjective in interpretation ..... 
