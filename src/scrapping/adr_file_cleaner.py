@@ -94,7 +94,7 @@ def clean_adrs_about_adrs():
 
 
 if __name__ == "__main__":
-    adr_directory = "../../data/ADRs-Updated"
+    adr_directory = "../../data/ADRs-Updated-new"
     clean_non_md_files(adr_directory)
     print("--------------------------------------------------------------------------------")
     unwanted_words = ["template", "draft", "example" , "readme" , "outro" , "contributing", "index"]    
