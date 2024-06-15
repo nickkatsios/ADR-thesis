@@ -46,7 +46,7 @@
         The second approach utlilized the Python library BERTopic \cite{bertTopic} to analyze the contents of the ADRs. BERTopic uses transformer-based language models and a class-based TF-IDF variation to generate coherent topic representations. The whole procedure and the algorithms used for the final analysis can be broken down to the steps below:
 
         \begin{enumerate}
-            \item Document embeddings are generated using pre-trained models to capture semantic similarities, ensuring that documents with similar topics are close in vector space. In order to produce rich embeddings, the "all-mpnet-base-v2" transformer model \footnote{https://huggingface.co/sentence-transformers/all-mpnet-base-v2} from Hugging-Face was used for its support of longer documents up to sequences of 512 tokens and due to the fact that it was trained on datasets related to software engineering such as CodeSearchNet\footnote{https://huggingface.co/datasets/code-search-net/code_search_net}, that contains over 2 million (comment, code) pairs and StackExchange questions.
+            \item Document embeddings are generated using pre-trained models to capture semantic similarities, ensuring that documents with similar topics are close in vector space. In order to produce rich embeddings, the "all-mpnet-base-v2" transformer model \footnote{https://huggingface.co/sentence-transformers/all-mpnet-base-v2} from Hugging-Face was used for its support of longer documents up to sequences of 512 tokens and due to the fact that it was trained on datasets related to software engineering such as CodeSearchNet\footnote{https://huggingface.co/datasets/code-search-net/code\_search\_net}, that contains over 2 million (comment, code) pairs and StackExchange questions.
             
             \item These embeddings are then reduced in dimensionality to make the clustering process more efficient. For this, the UMAP method was used as it "keeps some of a dataset's local and global structure"\footnote{https://maartengr.github.io/BERTopic/algorithm/algorithm.html\#2-dimensionality-reduction} which is important to keep as it contains the information necessary to create clusters of semantically similar documents. This technique introduces randomness into the procedure so a set seed was used to make results reproducible.
 
@@ -88,6 +88,11 @@
         \end{figure}
         
         Examining the topics from a different perspective, a similarity matrix can be created to determine how clearly the topics have been separated by the model. This can also provide insights into the quality of the labels derived from the LLM, as conceptually similar topics should have a high similarity score and vise versa. The results are presented in figure \ref{fig:similarity_matrix_orginal}. 
+
+        % TODO: Topic names changed from llm
+        % 1) Software arch decisions --> Python development decisions
+        % 2) api kati kati --> Frontend Component and Design Decisions
+        % 3) data kati -->  Data Storage Decisions
         
         \begin{figure}[H]
             \centering
@@ -100,11 +105,11 @@
 
         To enhance the clarity of the results and create larger, more information-rich clusters, outlier reduction was applied to the topics, ensuring that only semantically similar documents were assigned to each cluster following the initial analysis. By utilizing the pre-calculated probabilities of an unlabeled document's likelihood of belonging to a specific cluster, the number of outliers was reduced to 704. The similarity threshold was set at 10 percent, meaning outlier ADRs were included in the nearest topic cluster as long as they shared at least 10 percent similarity. This low similarity threshold was chosen to maximize the number of documents assigned to a topic while isolating true outliers for further examination . The updated topic and document graphs can be seen in figures \ref{fig:similarity_matrix_reduced} and \ref{fig:docs_reduced}. 
         
-        \begin{figure}[h]
+        \begin{figure}[ht]
             \centering
             \includegraphics[scale=0.4]{figures/BerTopic_Reduced/datamap_reduced_outliers.png}
             \caption{Datamap of documents after outlier reduction}
-            \label{fig:similarity_matrix_reduced}
+            \label{fig:datamap_reduced}
         \end{figure}
         
         Topics now cover larger areas in the embedding space and there is more topic coverage in the certer parts of the axes. Topic clusters have been extended to include ADRs with more distance, modifying their initial state. From a visual perspective, clusters do not appear overly altered although outliers have been reduced by 72 percent which indicates promising results. The remaining outliers are also more apparent, indicated in grey data points and will be used for later analysis to determine the reason for their low similarity.
@@ -125,7 +130,72 @@
             \label{fig:similarity_matrix_reduced}
         \end{figure}
 
-        All research questions were answered using the results after the outlier reduction due to improved clarity. RQ3 also considered only the 704 final outliers as the filtering ensured their high degree of dissimilarity.    
+        All research questions were answered using the results after the outlier reduction due to improved clarity. RQ3 also considered only the 704 final outliers as the filtering ensured their high degree of dissimilarity. A complete representation of the defined topics can be found in table \ref{table:topic_table}.
+        
+        \begin{longtable}{|p{1cm}|p{1.12cm}|p{3.3cm}|p{9cm}|}
+            \caption{Merged Topics Analysis} \\
+            \hline
+            \textbf{Topic} & \textbf{ADR Count} & \textbf{LLM Representation Name} & \textbf{Topic Keywords} \\
+            \hline
+            \endfirsthead
+            
+            \hline
+            \textbf{Topic} & \textbf{ADR Count} & \textbf{LLM Representation Name} & \textbf{Topic Keywords} \\
+            \hline
+            \endhead
+            
+            \hline
+            \endfoot
+            
+            \hline
+            \endlastfoot
+            
+            0 & 770 & Frontend Component and Design Decisions & 'react', 'component', 'typescript', 'npm', 'framework', 'frontend', 'dependency', 'design', 'development', 'angular' \\
+            \hline
+            1 & 276 & Architecture Decision Records (ADRs) & 'architectural record', 'architecture record', 'documentation', 'changelog', 'example description', 'document', 'architectural' \\
+            \hline
+            2 & 248 & User Authentication Architecture & 'access control', 'authorization', 'oauth', 'authentication', 'openid', 'organization', 'authenticate', 'access token', 'auth', 'security' \\
+            \hline
+            3 & 225 & Test Strategy Evolution & 'test suite', 'testing framework', 'unit testing', 'unit test', 'testing', 'acceptance test', 'development', 'test' \\
+            \hline
+            4 & 345 & Release Process Standardization & 'versioning', 'release note', 'repository', 'pull request', 'git', 'github', 'version', 'github action', 'workflow', 'deployment' \\
+            \hline
+            5 & 467 & Database Schema Management and Data Migration & 'database', 'schema', 'sql', 'metadata', 'implementation', 'data', 'information', 'structure', 'migration', 'json' \\
+            \hline
+            6 & 165 & Module Communication Decisions & 'sdk', 'implement', 'protocol', 'module', 'implementation', 'node', 'interface', 'proposal', 'cosmos' \\
+            \hline
+            7 & 209 & API Documentation Strategy & 'api management', 'apis', 'api', 'openapi', 'schema', 'endpoint', 'json', 'metadata', 'odata', 'specification' \\
+            \hline
+            8 & 136 & Monitoring and Metric Management & 'cloudwatch', 'monitoring', 'analytics', 'telemetry', 'api', 'logging', 'metric', 'endpoint', 'aws', 'dashboard' \\
+            \hline
+            9 & 136 & Containerized Application Development & 'docker container', 'dockerfiles', 'docker image', 'dockerhub', 'dockerfile', 'dockercompose', 'kubernetes', 'container registry' \\
+            \hline
+            10 & 144 & Messaging System Design Approach & 'message bus', 'event sourcing', 'system event', 'device service', 'messagebus', 'event', 'command service', 'api', 'rabbitmq', 'implementation' \\
+            \hline
+            11 & 118 & Search Indexing Architecture Decision & 'elasticsearch', 'indexing', 'search index', 'search engine', 'lucene', 'solr', 'opensearch', 'new index', 'index', 'documentdb' \\
+            \hline
+            12 & 74 & Python Development Decisions & 'python version', 'support python', 'python package', 'python path', 'pythonpaths', 'python python', 'pythontuf', 'python paths' \\
+            \hline
+            13 & 107 & Infrastructure Management Strategy & 'terraform', 'terraform module', 'aws resource', 'cloud platform', 'kubernetes', 'cloudformation', 'aws lambda', 'aws', 'infrastructure code', 'provisioning' \\
+            \hline
+            14 & 290 & Cloud Infrastructure Management & 'kubernetes', 'cloud platform', 'cluster', 'elasticsearch', 'docker', 'pod', 'aws', 'eks', 'apigroups', 'cloud' \\
+            \hline
+            15 & 231 & Modular Architecture Decisions & 'implement', 'interface', 'implementation', 'module', 'framework', 'interactor', 'structure', 'dependency', 'constructor', 'architecture' \\
+            \hline
+            16 & 157 & Cluster and Traffic Management Strategy & 'kubernetes', 'haproxy', 'load balancer', 'aws', 'cloud foundry', 'endpoint', 'nginx', 'balancer', 'paas', 'ingres controller' \\
+            \hline
+            17 & 214 & Build System Configuration Decisions & 'configuration file', 'maven', 'build tool', 'gradle', 'configuration', 'dependency', 'config', 'kotlin', 'environment variable', 'implementation' \\
+            \hline
+            18 & 50 & Code Formatting Decision Strategy & 'style eslint', 'typescript', 'eslint prettier', 'eslint', 'stylelint', 'code style', 'enforce code', 'coding style', 'linting code', 'tslint' \\
+            \hline
+            19 & 63 & Data Management System Optimization & 'atlasdb', 'concurrency', 'lock table', 'cassandra', 'timelock', 'column', 'table', 'metadata', 'operation', 'storage' \\
+            \hline
+            20 & 196 & Data Storage Decisions & 'postgres', 'azure blob', 'database', 'aws', 'azure', 'blob storage', 'dynamodb', 'storage dedicated', 'storage', 'storage encrypted' \\
+            \hline
+            21 & 43 & Email Delivery Architecture & 'alert system', 'email service', 'email notification', 'email alert', 'notification type', 'email provider', 'notification', 'alert api', 'mail', 'sending email' \\
+            \hline
+        \end{longtable}
+
         
         \subsection{RQ1: What are the most frequently discussed software architecture topics in ADRs?}
 
@@ -140,9 +210,84 @@
 
         % todo: include tree sort 
 
-        \subsection{RQ2: How many topics from the general software architecture space are present in the ADRs? How many of them are missing?}
+        \subsection{RQ2: How many topics from the general software architecture space are present in the ADRs? What prominent topics are missing?}
 
-        \subsection{RQ3: Are there any outlier topics in software architecture? What are they about and how can they be sorted?}
+        Before determining which subset of topics from ADRs exist in the software architecture landscape, we must define a set of broad categories that architects have to consider when making design decisions. This is not a trivial task, as many trends, styles and general topics are implicit and documentation about actual architectural practices and decisions is limited.\cite{arch_patterns_in_practice_TOPICS}. In addition, design decisions can also be made to satisfy system attributes. Prominent attributes include availability, usability, performance, security, testability, modifiability and usability which are not topics but more so, systemic qualities that satisfy implied system or business needs \cite{patters+quality_requirements+tactics}. Architectural patterns, on the other hand, refer to a set of pre-defined styles and techniques for solving common reoccurring architectural problems, are more tangible but system-specific. \cite{Patterns+ArchDecisions}. Some popular patterns are Layers, Pipes-Filters, Model View Controller (MVC), Broker and Client–Server and are derived from the component-connector conceptual model \cite{survey_arch_patterns}. These aspects of decisions alone, do not constitute valid categorizations for our analysis as they refer to concepts that are either too implementation-specific or too broad. Combining the two, we get architectural tactics. Architectural tactics "serve as the
+        meeting point between the quality attributes and the software architecture" \cite{patters+quality_requirements+tactics}. Tactics are essentially specific measures taken to improve the quality attributes of the system. For example, an architect may decide to incorporate authentication and authorization into a system which in turn enhances security. Or referring to the findings of the previous question, a project may decide to use a specific frontend development framework in order to promote reusability if the framework allows for reusable code components. A comprehensive collection of tactics to satisfy specific system quality attributes, can be found in the Software Architecture in Practice book \cite{software_arch_in_practice_book}. 
+        To answer RQ2, each topic identified from the previous question's results was examined and interpreted based on its frequent keywords and LLM representation, aiming to match it with any specific architectural pattern, tactic, or technique that fulfills a particular quality attribute. If the associated quality attributes are not immediately clear, a deeper dive into the topic was necessary, reviewing its representative ADRs, and attempting to identify several potential quality attributes, as we can't conclusively determine the true intents of each ADR author. This is an empirical approximation since many ADRs mentioned the potential adoption of very specific technologies and tools rather than architectural patterns and architectures of system components, which is not ideal when trying to examine architectural styles used. Furthermore, many topics do not provide information about patterns and techniques. The results of the comparison are presented in table \ref{table:topic_tactic}.
+
+        { \small
+        \begin{longtable}{|p{3.8cm}|p{3cm}|p{2.2cm}|p{2.1cm}|p{2.8cm}|}
+        \caption{Topic Tactic Analysis}
+        \label{table:topic_tactic}
+        \hline
+        \textbf{Topic} & \textbf{Tactic} & \textbf{Pattern} & \textbf{Style} & \textbf{Quality Attribute} \\
+        \hline
+        \endfirsthead
+    
+        \hline
+        \textbf{Topic} & \textbf{Tactic} & \textbf{Pattern} & \textbf{Style} & \textbf{Quality Attribute} \\
+        \hline
+        \endhead
+        
+        \hline
+        \endfoot
+        
+        \hline
+        \endlastfoot
+        
+        Frontend Component and Design Decisions & Modularization & Component-Based & N/A & Reusability, Modifiability \\
+        \hline
+        Architecture Decision Records (ADRs) & Documentation & N/A & N/A & Maintainability \\
+        \hline
+        User Authentication Architecture & Authentication and Authorization & N/A & N/A & Security \\
+        \hline
+        Test Strategy Evolution & Automated Testing & N/A & N/A & Testability, Modifiability \\
+        \hline
+        Release Process Standardization & Continuous Integration/Continuous Deployment (CI/CD) & N/A & N/A & Maintainability, Reliability \\
+        \hline
+        Database Schema Management and Data Management System Optimization & Database Normalization, Data Optimization & N/A & Data-Centric & Maintainability, Performance, Efficiency \\
+        \hline
+        Module Communication Decisions & Asynchronous Messaging & Publish-Subscribe & Event-Driven & Performance, Scalability \\
+        \hline
+        API Documentation and Design Strategy & API Documentation & RESTful API & REST & Interoperability, Usability \\
+        \hline
+        Monitoring and Metric Management & Monitoring and Logging & N/A & N/A & Reliability, Maintainability \\
+        \hline
+        Containerized and Cloud Infrastructure Management & Containerization, Container Orchestration & Microservices & Service-Oriented Architecture (SOA) & Scalability, Availability, Modifiability \\
+        \hline
+        Messaging System Design Approach & Event-Driven Messaging & Event-Driven & N/A & Performance, Scalability \\
+        \hline
+        Search Indexing Architecture Decision & Indexing & N/A & N/A & Performance, Efficiency \\
+        \hline
+        Python Development Decisions & Scripting & N/A & N/A & Maintainability, Flexibility \\
+        \hline
+        Infrastructure Management Strategy & Infrastructure as Code & N/A & N/A & Scalability, Efficiency \\
+        \hline
+        Modular Architecture Decisions & Modularization & Modular Architecture & N/A & Modifiability, Reusability \\
+        \hline
+        Cluster Traffic and Load Management & Load Balancing & N/A & N/A & Performance, Availability \\
+        \hline
+        Build System Configuration Decisions & Configuration Management & N/A & N/A & Maintainability, Reliability \\
+        \hline
+        Code Formatting Decision Strategy & Code Quality & N/A & N/A & Maintainability, Readability \\
+        \hline
+        Data Storage Decisions & Data Storage Management & N/A & N/A & Performance, Data Integrity \\
+        \hline
+        Email Delivery Architecture & Notification Management & N/A & N/A & Usability, Reliability \\
+        \hline
+        \end{longtable}
+    }
+        
+        % Sxolia sto telos:
+        % Due to small dataset number and cluster number, because if more clusters --> less comprehencisve adrs --> small sample cannot reach conclusion --> we were not able to fing a lot of tactics but a lot where concrete ..... + adrs related to specific technologies confirmed by survey [cite] kanei pio dyskoli ti diadikasia gia patterns
+
+        
+        \subsection{RQ3: Are there any outlier topics in the dataset? What are they about and how do they relate to the rest of software architecture topics?}
+        
+        
+
+
         
     \section{Potential Biases in Interpretation}
     Topic modelling is subjective in interpretation ..... 
