@@ -10,16 +10,23 @@
 \svgsetup{inkscapelatex=false}
 \usepackage{subcaption}
 \usepackage{float}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{ltablex}
+\usepackage{afterpage}
+\usepackage{rotating}
+
 
 \begin{document}
 
 \include{CoverPage}
 
-% \maketitle
-
-% TODO: Enrich near the end
 \begin{abstract}
-    This thesis aims to explore and analyze architectural design records (ADRs) to understand their importance in documenting and guiding architectural decisions in software development projects. Through empirical analysis, this work seeks to uncover patterns, practices, and the impact of ADRs on project success.
+    \textbf{Introduction}: Architectural Design Records (ADRs) are lightweight text artifacts that capture the rationale behind architectural design decisions (ADDs) in the software architecture lifecycle. Although the popularity of ADRs remains limited, they offer a viable solution for preventing vaporization of architectural knowledge. \\ \\
+    \textbf{Objectives}: The primary objective of this study is to uncover the architectural topics and concerns imprinted in ADRs leveraging a dataset derived from open source repositories. \\ \\
+    \textbf{Methods}: A mixed-methods approach was adopted, combining empirical analysis and machine learning techniques. Data cleaning and enrichment were performed to prepare the dataset for analysis. Topic modeling techniques, including Latent Dirichlet Allocation (LDA) and BERTopic, were employed to identify prevalent topics within the ADRs. The analysis results were interpreted through empirical observation and the help of large language models (LLMs). \\ \\
+    \textbf{Results}: The analysis identified 22 topics within the ADR dataset. The most frequently discussed topics included frontend component architecture, database schema management, cloud infrastructure management, and user authentication architecture. Outlier analysis revealed additional, less prevalent topics, such as API designs, payment handling and usage of specific technologies and platforms. \\ \\
+    \textbf{Conclusion}: The findings highlight the diverse range of topics addressed in ADRs and their alignment with general software architecture concerns. The study underscores ADRs as a potential tool in tracing the chain of architectural decisions and maintaining architectural consistency. Future research could focus on expanding the dataset to include private and enterprise ADRs and exploring the integration of machine learning models to assist in architectural decision-making.
 \end{abstract}
 
 \newpage
@@ -27,7 +34,6 @@
 \listoffigures
 \newpage
 
-% TODO: Include a sentence or 2 in the start of each chapter describing what it is about.
 \include{ch1-Introduction}
 
 \include{ch2-Arch-Knowledge-And-Decisions}
@@ -46,3 +52,4 @@
 \bibliography{references/refs}
 
 \end{document}
+
