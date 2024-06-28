@@ -1,4 +1,8 @@
 \chapter{Architectural Decision Records}
+
+    This chapter explores the concept of Architectural Decision Records (ADRs) and their practical role in capturing and preserving architectural design decisions and architectural knowledge within software projects. It highlights their usage and various formats and provides an overview of the applications and benefits of ADRs as experienced by prominent organizations in the software engineering field.
+
+
     \section{Definition, Role and Use}
         An emerging way to capture architectural design decisions (ADDs) and prevent knowledge vaporization are architectural decision records(ADRs).\allowbreak ADRs are lightweight text artifacts that capture the rationale behind ADDs by outlining some of the basic structure of such decisions\cite{MarkdownADRs}. Their simple nature allows them to be stored alongside other software artifacts such as source code in software repositories, internal company wikis and regular documentation \cite{DOCUMENTING_ARCHITECTURE_DECISIONS}. They can also be put under version control systems like Git in order to preserve their modification history as the requirements of the system in question change but they are mostly viewed as an append-only log \cite{microsoftArchitectureDecision} and thus, they are immutable. This means that if the need to revisit an existing architecture arises, there is a need to create an entirely new ADR and not modify any existing ones. Version control of ADRs also enables the collaboration of multiple people on the same document, facilitating group decision making, along with the option for reviews of AD by the means of ``pull requests'' which are valuable feature but are absent in many AKM tools \cite{compare_study_adr_tools}. In a given repository, ADRs are usually stored in a folder path similar to \textbf{doc/adr} or \textbf{doc/arch} \cite{github_page_adrs}. Their proposed naming convention\footnote{https://github.com/joelparkerhenderson/architecture-decision-record?tab=readme-ov-file\#file-name-conventions-for-adrs} is that they should first start with the string ``adr'' followed by a number starting from 001 that is incremented with each new record. These are followed by a brief title of the decision in lowercase. Finally, all naming sections are separated with hyphens to promote readability. For example, the name of an ADR that refers to the use the OpenAI API for a new web application can look like \textbf{``adr-001-use-openai-api.md''}.
         
@@ -19,7 +23,7 @@
 
         \begin{figure}
             \includegraphics[scale=0.5]{figures/ADR_Example.png}
-            \caption{ADR Example used by an open source project using the template format proposed by Michael Nygard}
+            \caption{ADR example used by an open source project using the template format proposed by Michael Nygard}
             \label{fig:ADR_Example_MN}
         \end{figure}
 
